@@ -1,4 +1,4 @@
-# Annotation-Tool-for-Master-Thesis
+# Annotation Tool for Master Thesis
 
 This repository contains the source code of the program used to annotate social conversations with SPO triples and perspectives. The annotation tool, annotation guidelines and program instructions can be found here. Batches of the to be annotated dialogues are stored under `data` (but a specific batch will be send to you in due time).
 
@@ -32,3 +32,6 @@ To adjust any of the settings (font size, number of triples, etc.) you may adjus
 
 ## Disclaimer
 I have found some limitations of the program when running on Ubuntu 19.04; the program defaults to its system font which is not particularly pretty. Nonetheless, the program should still function properly.
+
+## Authors
+Thomas Bellucci
