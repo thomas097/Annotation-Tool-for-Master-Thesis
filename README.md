@@ -22,7 +22,7 @@ I recommend to install Spacy in a fresh virtual environment, which can be create
 
 To use the annotation tool, run `main.py` in the IDE of your choice or from the commandline:
 
-`python3 main.py`
+`> python3 main.py`
 
 This will open a file browser which allows you to select a batch file to annotate (stored under `data`). After a batch has been chosen, the program will open. Instructions on how to use the program can be found in the [Annotation Guidelines.pdf](https://github.com/thomas097/Annotation-Tool-for-Master-Thesis/blob/main/Annotation_Guidelines.pdf) document. 
 
