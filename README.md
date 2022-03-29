@@ -1,6 +1,6 @@
 # Annotation-Tool-for-Master-Thesis
 
-This repository contains the source code of the program used to annotate social conversations with SPO triples and perspectives. The annotation tool, annotation guidelines and program instructions can be found here. Batches of to be annotated are stored under `data` (but a specific batch will be send to you in due time).
+This repository contains the source code of the program used to annotate social conversations with SPO triples and perspectives. The annotation tool, annotation guidelines and program instructions can be found here. Batches of the to be annotated dialogues are stored under `data` (but a specific batch will be send to you in due time).
 
 ## Requirements
 
