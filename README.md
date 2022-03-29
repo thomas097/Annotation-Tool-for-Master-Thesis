@@ -16,7 +16,7 @@ We recommend installing Spacy with the `en_core_web_sm` pipeline for English (ne
 I recommend to install Spacy in a fresh virtual environment, which can be created and activated using the following commands:
 
 `> python -m venv ENV_NAME`<br>
-`> .\sample_venv\Scripts\activate`
+`> .\ENV_NAME\Scripts\activate`
 
 ## Usage
 
