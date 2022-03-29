@@ -1,0 +1,1 @@
+This directory contains the (unannotated) dataset of social conversations divided into batches of 200 (Excluding the `pilot` and `remaining` batches). When you open the program (`python3 main.py`) a filebrowser will pop-up. In this browser you can select one of the above batches.
