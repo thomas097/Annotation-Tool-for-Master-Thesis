@@ -11,8 +11,6 @@ class ArgumentButton(tk.Button):
         # Create Button
         self._label = tk.StringVar()
         super().__init__(root, textvariable=self._label, relief=ARG_RELIEF, bg=BG_COLOR, command=command)
-        self.config(font=FONT)
-        self.config(fg=ARG_FONT_COLOR)
         self.pack(side=align)
 
         # Register assigned tokens
@@ -65,14 +63,12 @@ class Column(tk.Frame):
     def add_button(self, i, text, command, padding=PADDING):
         self._expand(i)
         button = tk.Button(self._rows[i], text=text, relief=RELIEF, command=command)
-        button.config(font=FONT)
         button.pack(side=tk.LEFT, padx=padding, pady=padding, ipadx=padding, ipady=padding)
         return button
 
     def add_text(self, i, text, pad=0, align=tk.LEFT, bg_color=BG_COLOR):
         self._expand(i)
         label = tk.Label(self._rows[i], text=text, relief='flat', bg=bg_color)
-        label.config(font=FONT)
         label.pack(side=align, padx=pad)
         return label
 
@@ -108,6 +104,12 @@ class Interface:
         self._root = tk.Frame(self._window, bg=BG_COLOR)
         self._root.pack(fill="none", expand=True)
 
+        self.defaultFont = tk.font.nametofont("TkDefaultFont")
+  
+        # Overriding default-font with custom settings
+        # i.e changing font-family, size and weight
+        self.defaultFont.configure(family=FONT[0], size=FONT[1])
+
         # Layout
         self._token_frame = Column(self._root, row=0, col=0, colspan=2, sticky=tk.N)
         self._triple_frame = Column(self._root, row=1, col=0, colspan=1, sticky=tk.E)
@@ -126,7 +128,7 @@ class Interface:
         self._item = self._dataloader.current()
 
         self._init_layout()
-        self._root.mainloop()
+        self._window.mainloop()
 
     def _change_focus_with_keys(self, evt, _):
         # Update focus position according to keys
@@ -232,6 +234,7 @@ class Interface:
 
         # Fill in annotation if we have already done so
         if self._dataloader.already_annotated():
+            print('already_annotated')
             annotations = self._dataloader.load()['annotations']
             for i, triple in enumerate(annotations):
                 for j, arg in enumerate(triple):
