@@ -4,7 +4,7 @@ This repository contains the source code of the program used to annotate social 
 
 ## Requirements
 
-The annotation tool has been developed on Windows with Python 3.8 (but should be compatible with any 3.+ version of Python and run on Mac and Linux).
+The annotation tool has been developed on Windows 10 and Ubuntu 19.04 with Python 3.8.8 (but should be compatible with any 3.+ version of Python and run on MacOS as well).
 
 The following libraries must be installed:
 * `spacy >= 3.2.0`
@@ -32,6 +32,7 @@ To adjust any of the settings (font size, number of triples, etc.) you may adjus
 
 ## Version history
 * Font problem with Ubuntu has been fixed
+* Laggy window updating problem with Ubuntu fixed
 
 ## Authors
 Thomas Bellucci
