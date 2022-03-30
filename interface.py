@@ -11,6 +11,8 @@ class ArgumentButton(tk.Button):
         # Create Button
         self._label = tk.StringVar()
         super().__init__(root, textvariable=self._label, relief=ARG_RELIEF, bg=BG_COLOR, command=command)
+        self.config(font=FONT)
+        self.config(fg=ARG_FONT_COLOR)
         self.pack(side=align)
 
         # Register assigned tokens
@@ -32,7 +34,6 @@ class ArgumentButton(tk.Button):
         """
         self.tokens.append(token)
         self.indices.append(index)
-        self.config(fg=ARG_FONT_COLOR)
         self._label.set(' '.join(self.tokens))
 
     def clear(self):
@@ -64,12 +65,14 @@ class Column(tk.Frame):
     def add_button(self, i, text, command, padding=PADDING):
         self._expand(i)
         button = tk.Button(self._rows[i], text=text, relief=RELIEF, command=command)
+        button.config(font=FONT)
         button.pack(side=tk.LEFT, padx=padding, pady=padding, ipadx=padding, ipady=padding)
         return button
 
     def add_text(self, i, text, pad=0, align=tk.LEFT, bg_color=BG_COLOR):
         self._expand(i)
         label = tk.Label(self._rows[i], text=text, relief='flat', bg=bg_color)
+        label.config(font=FONT)
         label.pack(side=align, padx=pad)
         return label
 
@@ -99,9 +102,6 @@ class Interface:
         # Window
         self._window = tk.Tk()
         self._window.title(TITLE)
-        self._font = TkFont.nametofont(FONT_FAMILY)
-        self._font.configure(size=FONT_SIZE)
-        self._window.option_add("*Font", self._font)
         self._window.deiconify()
 
         # Centered Frame to add interface into

@@ -1,7 +1,6 @@
 # General
 TITLE = 'Annotation Tool'
-FONT_FAMILY = "TkDefaultFont"
-FONT_SIZE = 15
+FONT = ('Helvetical', 15)
 FONT_COLOR = 'black'
 BG_COLOR = 'grey95'
 RELIEF = 'groove'
