@@ -30,8 +30,8 @@ Results are stored in a new directory `annotations/`.
 
 To adjust any of the settings (font size, number of triples, etc.) you may adjust the setting in `config.py`.
 
-## Disclaimer
-I have found some limitations of the program when running on Ubuntu 19.04; the program defaults to its system font which is not particularly pretty. Nonetheless, the program should still function properly.
+## Version history
+* Font problem with Ubuntu has been fixed
 
 ## Authors
 Thomas Bellucci
