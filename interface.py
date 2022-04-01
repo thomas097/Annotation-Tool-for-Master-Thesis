@@ -1,9 +1,22 @@
 import tkinter as tk
-import tkinter.font as TkFont
+from tkinter import font
 from dataloader import DataLoader, filebrowser
 from functools import partial
 
 from config import *
+
+
+class SkipToggle(tk.Checkbutton):
+    def __init__(self, root, command, align=tk.LEFT):
+        self._var = tk.IntVar()
+        super().__init__(root, text='skip', variable=self._var, onvalue=1, offvalue=0, command=partial(command, toggle=self))
+        self.pack(side=align)
+
+    def is_skipped(self):
+        return self._var.get() == 1
+
+    def set(self, value):
+        self._var.set(value)
 
 
 class ArgumentButton(tk.Button):
@@ -66,6 +79,11 @@ class Column(tk.Frame):
         button.pack(side=tk.LEFT, padx=padding, pady=padding, ipadx=padding, ipady=padding)
         return button
 
+    def add_skip_button(self, i, command):
+        self._expand(i)
+        toggle = SkipToggle(self._rows[i], command=command)
+        return toggle
+
     def add_text(self, i, text, pad=0, align=tk.LEFT, bg_color=BG_COLOR):
         self._expand(i)
         label = tk.Label(self._rows[i], text=text, relief='flat', bg=bg_color)
@@ -126,6 +144,7 @@ class Interface:
         # Annotate first sample
         self._dataloader = dataloader
         self._item = self._dataloader.current()
+        self._skipped = False
 
         self._init_layout()
         self._window.mainloop()
@@ -163,9 +182,12 @@ class Interface:
         button = self._triples[self._focus]
         button.add(token, (i, j))
 
-    def _next(self, skipped=False):
+    def _set_skipped(self, toggle):
+        self._skipped = toggle.is_skipped()
+
+    def _next(self):
         # Create annotation capsule
-        annotation = {'tokens': self._item, 'annotations': [], 'skipped': skipped}
+        annotation = {'tokens': self._item, 'annotations': [], 'skipped': self._skipped}
         for i in range(NUM_TRIPLES):
             triple = (self._triples[(i, 0)].indices,  # subject
                       self._triples[(i, 1)].indices,  # predicate
@@ -182,6 +204,19 @@ class Interface:
         self._init_layout()
 
     def _back(self):
+        # Create annotation capsule
+        annotation = {'tokens': self._item, 'annotations': [], 'skipped': self._skipped}
+        for i in range(NUM_TRIPLES):
+            triple = (self._triples[(i, 0)].indices,  # subject
+                      self._triples[(i, 1)].indices,  # predicate
+                      self._triples[(i, 2)].indices,  # object
+                      self._triples[(i, 3)].indices,  # polarity
+                      self._triples[(i, 4)].indices)  # certainty
+            annotation['annotations'].append(triple)
+
+        # Save to file
+        self._dataloader.save(annotation)
+
         self._item = self._dataloader.prev()
         self._init_layout()
 
@@ -208,6 +243,7 @@ class Interface:
         self._triples = {}
 
     def _init_layout(self):
+        print()
         # Add new Columns
         self._clear_layout()
         self._token_frame = Column(self._root, row=0, col=0, colspan=2, sticky=tk.N)
@@ -233,19 +269,27 @@ class Interface:
             self._triples[(i, 4)] = certainty
 
         # Fill in annotation if we have already done so
+        self._skipped = False
         if self._dataloader.already_annotated():
-            print('already_annotated')
-            annotations = self._dataloader.load()['annotations']
+            print('- already_annotated')
+            data = self._dataloader.load()
+            annotations = data['annotations']
+            self._skipped = data['skipped']
             for i, triple in enumerate(annotations):
                 for j, arg in enumerate(triple):
                     for turn_idx, token_idx in arg:
                         self._focus = (i, j)  # set tmp argument focus
                         self._assign_to_focus(turn_idx, token_idx)
 
-        # Add Skip and Next buttons
+        # Back button
         self._button_frame.add_button(1, 'back', command=self._back, padding=BUTTON_PADDING)
-        self._button_frame.add_button(1, 'skip', command=partial(self._next, skipped=True), padding=BUTTON_PADDING)
-        self._button_frame.add_button(1, 'next', command=partial(self._next, skipped=False), padding=BUTTON_PADDING)
+
+        # Skip button
+        toggle = self._button_frame.add_skip_button(1, command=self._set_skipped)
+        toggle.set(self._skipped)
+
+        # Next / confirmation button
+        self._button_frame.add_button(1, 'next', command=self._next, padding=BUTTON_PADDING)
 
         # Set default focus and placeholder text
         self._window.title(self._dataloader.summary())

@@ -83,8 +83,7 @@ class DataLoader:
         print('tokenizing')
         turns = item['triplet'].split(self._sep)
         tokens = [[w.lower_ for w in self._nlp(turn.strip())] for turn in turns]
-        print('done')
-        return tokens
+        return [t + ['[unk]'] for t in tokens]
 
     def current(self):
         """ Returns the current sample
