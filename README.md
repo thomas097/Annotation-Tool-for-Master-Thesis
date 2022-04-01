@@ -33,6 +33,9 @@ To adjust any of the settings (font size, number of triples, etc.) you may adjus
 ## Version history
 * Font problem with Ubuntu has been fixed
 * Laggy window updating problem with Ubuntu fixed
+* Skip button now a checkbox you can set (will stay set  unless you uncheck it again)
+* Skip means "add a special flag indicating that something is horribly wrong with this sample"
+* Added an [unk] token to every sentence you can use if, for some reason, a word is missing (don't think it should be needed much; often not annotating the triple is a better option)
 
 ## Authors
 Thomas Bellucci
