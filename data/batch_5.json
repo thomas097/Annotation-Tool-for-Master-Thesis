@@ -12,7 +12,7 @@
     },
     {
         "id": "daily_dialogs-valid-006737",
-        "triplet": "Hi , Lucy !<eos>Hi . It ' s a wonderful wedding , isn't it ?<eos>Yes , It's very great .",
+        "triplet": "Hi , Lucy !<eos>Hi . It's a wonderful wedding , isn't it ?<eos>Yes , It's very great .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -68,7 +68,7 @@
     },
     {
         "id": "daily_dialogs-train-005569",
-        "triplet": "She ' s not quite twenty five .<eos>Do you miss your family ?<eos>Yes .",
+        "triplet": "She's not quite twenty five .<eos>Do you miss your family ?<eos>Yes .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
@@ -230,7 +230,7 @@
     },
     {
         "id": "daily_dialogs-train-009000",
-        "triplet": "we ' ll be eight or nine people . Could we book a private room ?<eos>I ' ll just check . At what time on Friday evening ?<eos>about 7 30 .",
+        "triplet": "we'll be eight or nine people . Could we book a private room ?<eos>I'll just check . At what time on Friday evening ?<eos>about 7 30 .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -456,7 +456,7 @@
     },
     {
         "id": "daily_dialogs-valid-008153",
-        "triplet": "15 .<eos>What about your brother ?<eos>He ' s not quite 25 .",
+        "triplet": "15 .<eos>What about your brother ?<eos>He's not quite 25 .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -465,7 +465,7 @@
     },
     {
         "id": "daily_dialogs-valid-003247",
-        "triplet": "What aren ' t you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
+        "triplet": "What aren't you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
         "categories": [
             "possessive_prons",
             "yes_no_question",
@@ -660,7 +660,7 @@
     },
     {
         "id": "daily_dialogs-train-008327",
-        "triplet": "What ? You don ' t love me ? Me , either .<eos>You don ' t love me ?<eos>No .",
+        "triplet": "What ? You don't love me ? Me , either .<eos>You don't love me ?<eos>No .",
         "categories": [
             "ellipsis_pred",
             "act_deny_elaborate",
@@ -691,7 +691,7 @@
     },
     {
         "id": "daily_dialogs-valid-004455",
-        "triplet": "Do you know who ' s just got married ? Old Mc Donald .<eos>Never ! He ' s over 80 , isn ' t he ?<eos>He ' s nearly 90 .",
+        "triplet": "Do you know who's just got married ? Old Mc Donald .<eos>Never ! He's over 80 , isn't he ?<eos>He's nearly 90 .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -749,7 +749,7 @@
     },
     {
         "id": "daily_dialogs-valid-013053",
-        "triplet": "I will cancel the fees you owe .<eos>I don ' t have to pay any fees ?<eos>You ' ll only have to pay the initial fee .",
+        "triplet": "I will cancel the fees you owe .<eos>I don't have to pay any fees ?<eos>You'll only have to pay the initial fee .",
         "categories": [
             "singular_personal_prons",
             "declarative_yes_no_question",
@@ -989,7 +989,7 @@
     },
     {
         "id": "daily_dialogs-train-003194",
-        "triplet": "It is beautiful .<eos>You don ' t have any problems with how it looks ?<eos>Actually , there is a problem .",
+        "triplet": "It is beautiful .<eos>You don't have any problems with how it looks ?<eos>Actually , there is a problem .",
         "categories": [
             "ellipsis_subj",
             "yes_no_question",
@@ -1017,7 +1017,7 @@
     },
     {
         "id": "daily_dialogs-train-012637",
-        "triplet": "I would like to speak to you , if you don ' t mind .<eos>What would you like to speak to me about ?<eos>I would like to talk to you about this year ' s election .",
+        "triplet": "I would like to speak to you , if you don't mind .<eos>What would you like to speak to me about ?<eos>I would like to talk to you about this year's election .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1178,7 +1178,7 @@
     },
     {
         "id": "daily_dialogs-train-010580",
-        "triplet": "My appointment was on Tuesday .<eos>What time was it scheduled for ?<eos>It was for two o ' clock in the afternoon .",
+        "triplet": "My appointment was on Tuesday .<eos>What time was it scheduled for ?<eos>It was for two o'clock in the afternoon .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1197,7 +1197,7 @@
     },
     {
         "id": "daily_dialogs-valid-004118",
-        "triplet": "If you ' d like , I can show you were to find it .<eos>Could you do that ?<eos>Follow me .",
+        "triplet": "If you'd like , I can show you were to find it .<eos>Could you do that ?<eos>Follow me .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -1656,7 +1656,7 @@
     },
     {
         "id": "daily_dialogs-train-010199",
-        "triplet": "About nine thirty in the morning .<eos>Shall we arrange a bail boy to pick up your luggage at nine o ' clock ?<eos>Sure .",
+        "triplet": "About nine thirty in the morning .<eos>Shall we arrange a bail boy to pick up your luggage at nine o'clock ?<eos>Sure .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
@@ -1705,7 +1705,7 @@
     },
     {
         "id": "daily_dialogs-train-012344",
-        "triplet": "it was nice of your boss to give you an option . My boss would never do that .<eos>let ' s get back to you . How was your day ?<eos>it was horrible ! It was just one thing after another .",
+        "triplet": "it was nice of your boss to give you an option . My boss would never do that .<eos>let's get back to you . How was your day ?<eos>it was horrible ! It was just one thing after another .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1799,7 +1799,7 @@
     },
     {
         "id": "daily_dialogs-train-002245",
-        "triplet": "Now far . About 150 meters perhaps .<eos>Ok . So I turn right at the traffic lights . Then ?<eos>Then keep walking until you reach the war memorial . It ' s a big statue of a soldier . You can ' t miss it .",
+        "triplet": "Now far . About 150 meters perhaps .<eos>Ok . So I turn right at the traffic lights . Then ?<eos>Then keep walking until you reach the war memorial . It's a big statue of a soldier . You can't miss it .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",

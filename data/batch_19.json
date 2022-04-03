@@ -84,7 +84,7 @@
     },
     {
         "id": "daily_dialogs-train-001629",
-        "triplet": "Yes , I ' m looking for a pair of trousers .<eos>What size are you ?<eos>I ' m a large .",
+        "triplet": "Yes , I'm looking for a pair of trousers .<eos>What size are you ?<eos>I'm a large .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -199,7 +199,7 @@
     },
     {
         "id": "daily_dialogs-train-007068",
-        "triplet": "Whatever you say .<eos>Are you really interested in doing something ?<eos>I don ' t mind if you want to .",
+        "triplet": "Whatever you say .<eos>Are you really interested in doing something ?<eos>I don't mind if you want to .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -208,7 +208,7 @@
     },
     {
         "id": "daily_dialogs-valid-007139",
-        "triplet": "Yes , she is .<eos>And she is thin , isn ' t she ?<eos>Well , just a little thin .",
+        "triplet": "Yes , she is .<eos>And she is thin , isn't she ?<eos>Well , just a little thin .",
         "categories": [
             "ellipsis_pred",
             "yes_no_question",
@@ -245,7 +245,7 @@
     },
     {
         "id": "daily_dialogs-valid-010181",
-        "triplet": "Well , it's about fifteen minutes ' walk .<eos>Which bus goes there ?<eos>You may take a No . 34 bus . And the subway can also take you there .",
+        "triplet": "Well , it's about fifteen minutes'walk .<eos>Which bus goes there ?<eos>You may take a No . 34 bus . And the subway can also take you there .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -650,7 +650,7 @@
     },
     {
         "id": "daily_dialogs-valid-007011",
-        "triplet": "Sure . Thank you very much .<eos>Then I ' ll pick you up at six thirty . OK ?<eos>Ok , see you .",
+        "triplet": "Sure . Thank you very much .<eos>Then I'll pick you up at six thirty . OK ?<eos>Ok , see you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -966,7 +966,7 @@
     },
     {
         "id": "daily_dialogs-train-005595",
-        "triplet": "Well , here we go again .<eos>What happened ? Why did everyone get so quiet ?<eos>The Redskin ' s quarterback just threw a touchdown pass for seven points . We ' re losing again .",
+        "triplet": "Well , here we go again .<eos>What happened ? Why did everyone get so quiet ?<eos>The Redskin's quarterback just threw a touchdown pass for seven points . We're losing again .",
         "categories": [
             "plural_personal_prons",
             "wh_question",
@@ -1032,7 +1032,7 @@
     },
     {
         "id": "daily_dialogs-train-002886",
-        "triplet": "And there are Cantonese cuisine and Kiangsu cuisine .. Most people like them .<eos>What about any special Beijing dishes ?<eos>There ' re Beijing roast duck .",
+        "triplet": "And there are Cantonese cuisine and Kiangsu cuisine .. Most people like them .<eos>What about any special Beijing dishes ?<eos>There're Beijing roast duck .",
         "categories": [
             "ellipsis_pred",
             "open_question",
@@ -1354,7 +1354,7 @@
     },
     {
         "id": "daily_dialogs-train-002199",
-        "triplet": "It ' s 8 . 50 a month .<eos>When can I see it ?<eos>We can take a see by there now if you like . The landlord left me a set of keys with me .",
+        "triplet": "It's 8 . 50 a month .<eos>When can I see it ?<eos>We can take a see by there now if you like . The landlord left me a set of keys with me .",
         "categories": [
             "singular_personal_prons",
             "plural_personal_prons",
@@ -1602,7 +1602,7 @@
     },
     {
         "id": "daily_dialogs-valid-007204",
-        "triplet": "It ' s harmful not only for yourself but for others .<eos>What in your opinion can be done to stop smoking ?<eos>Stop producing cigarettes .",
+        "triplet": "It's harmful not only for yourself but for others .<eos>What in your opinion can be done to stop smoking ?<eos>Stop producing cigarettes .",
         "categories": [
             "ellipsis_subj",
             "wh_question",
@@ -1703,7 +1703,7 @@
     },
     {
         "id": "daily_dialogs-valid-007196",
-        "triplet": "Yes , I like collecting things .<eos>Oh , that ' s interesting , and but what kind of things ?<eos>Several things , for example , Very coins , stamps , stones and so on .",
+        "triplet": "Yes , I like collecting things .<eos>Oh , that's interesting , and but what kind of things ?<eos>Several things , for example , Very coins , stamps , stones and so on .",
         "categories": [
             "ellipsis_pred",
             "length_16"
@@ -1813,7 +1813,7 @@
     },
     {
         "id": "daily_dialogs-valid-008549",
-        "triplet": "Baby , I love you so much .<eos>You do ?<eos>I love you . And I think you ' re awesome .",
+        "triplet": "Baby , I love you so much .<eos>You do ?<eos>I love you . And I think you're awesome .",
         "categories": [
             "singular_personal_prons",
             "length_12"

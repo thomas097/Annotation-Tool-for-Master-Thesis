@@ -262,7 +262,7 @@
     },
     {
         "id": "daily_dialogs-valid-008524",
-        "triplet": "What are you doing ?<eos>What am I doing ? What am I doing ? Don ' t you know what day it is ?<eos>Mumm . no .",
+        "triplet": "What are you doing ?<eos>What am I doing ? What am I doing ? Don't you know what day it is ?<eos>Mumm . no .",
         "categories": [
             "ellipsis_pred",
             "length_4"
@@ -378,7 +378,7 @@
     },
     {
         "id": "daily_dialogs-valid-003992",
-        "triplet": "I ' m going to need you to complete this application .<eos>What else do I have to do ?<eos>Then I will take your picture for your passport .",
+        "triplet": "I'm going to need you to complete this application .<eos>What else do I have to do ?<eos>Then I will take your picture for your passport .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -437,7 +437,7 @@
     },
     {
         "id": "daily_dialogs-valid-008465",
-        "triplet": "Yes , with a B .<eos>Won ' t you come in , Mr . Barker ?<eos>Thank you , Mr . Parker .",
+        "triplet": "Yes , with a B .<eos>Won't you come in , Mr . Barker ?<eos>Thank you , Mr . Parker .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -503,7 +503,7 @@
     },
     {
         "id": "daily_dialogs-valid-007219",
-        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn ' t it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
+        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn't it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -564,7 +564,7 @@
     },
     {
         "id": "daily_dialogs-valid-006370",
-        "triplet": "I like him very much . He ' s a gay dog .<eos>Are you ready to welcome him ?<eos>I am all set . He can come anytime .",
+        "triplet": "I like him very much . He's a gay dog .<eos>Are you ready to welcome him ?<eos>I am all set . He can come anytime .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -631,7 +631,7 @@
     },
     {
         "id": "daily_dialogs-valid-010189",
-        "triplet": "You can take the subway to get there<eos>How long will I take it to get there ?<eos>It ' s takes only about 10 minutes",
+        "triplet": "You can take the subway to get there<eos>How long will I take it to get there ?<eos>It's takes only about 10 minutes",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -678,7 +678,7 @@
     },
     {
         "id": "daily_dialogs-valid-001575",
-        "triplet": "I have , actually ; I ' Ve always wanted to build my dream home myself .<eos>What would it be like ?<eos>Well , it would be spacious and located next to a park , because a nice view is important to me .",
+        "triplet": "I have , actually ; I'Ve always wanted to build my dream home myself .<eos>What would it be like ?<eos>Well , it would be spacious and located next to a park , because a nice view is important to me .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -954,7 +954,7 @@
     },
     {
         "id": "daily_dialogs-train-007087",
-        "triplet": "I can ' t wait to retire .<eos>And then what ?<eos>And then I ' m moving to Florida where I can play golf all day , every day !",
+        "triplet": "I can't wait to retire .<eos>And then what ?<eos>And then I'm moving to Florida where I can play golf all day , every day !",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1027,7 +1027,7 @@
     },
     {
         "id": "daily_dialogs-valid-008391",
-        "triplet": "Laura .<eos>Do you like this place ?<eos>I don ' t think it ' s very nice . And my father doesn ' t like it . But my mother likes it very much . So we often come here .",
+        "triplet": "Laura .<eos>Do you like this place ?<eos>I don't think it's very nice . And my father doesn't like it . But my mother likes it very much . So we often come here .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1360,7 +1360,7 @@
     },
     {
         "id": "daily_dialogs-valid-006290",
-        "triplet": "I like the kid . He ' s so lovely .<eos>How old is he ?<eos>Twelve . He ' s very sensible for his age .",
+        "triplet": "I like the kid . He's so lovely .<eos>How old is he ?<eos>Twelve . He's very sensible for his age .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1530,7 +1530,7 @@
     },
     {
         "id": "daily_dialogs-valid-007893",
-        "triplet": "I can ' t wait to retire .<eos>And then what ?<eos>And then I ' m moving to Florida where I can play golf all day , every day !",
+        "triplet": "I can't wait to retire .<eos>And then what ?<eos>And then I'm moving to Florida where I can play golf all day , every day !",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1704,7 +1704,7 @@
     },
     {
         "id": "daily_dialogs-train-004153",
-        "triplet": "But it ' s so old .<eos>Don ' t judge a book by its cover . Do you Kwon what it ' s about ?<eos>No , not at all .",
+        "triplet": "But it's so old .<eos>Don't judge a book by its cover . Do you Kwon what it's about ?<eos>No , not at all .",
         "categories": [
             "ellipsis_pred",
             "act_deny_elaborate",
@@ -1714,7 +1714,7 @@
     },
     {
         "id": "daily_dialogs-valid-003300",
-        "triplet": "how about this scarf , these earrings , and an anklet ?<eos>that might be going overboard a bit . How about just that scarf with a bracelet ?<eos>that ' s a good idea . You have a lot of good fashion sense .",
+        "triplet": "how about this scarf , these earrings , and an anklet ?<eos>that might be going overboard a bit . How about just that scarf with a bracelet ?<eos>that's a good idea . You have a lot of good fashion sense .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -1900,7 +1900,7 @@
     },
     {
         "id": "daily_dialogs-train-008666",
-        "triplet": "you ' re welcome .<eos>by the way , how long does it take ?<eos>without traffic , it takes about an hour .",
+        "triplet": "you're welcome .<eos>by the way , how long does it take ?<eos>without traffic , it takes about an hour .",
         "categories": [
             "singular_personal_prons",
             "wh_question",

@@ -70,7 +70,7 @@
     },
     {
         "id": "daily_dialogs-valid-006920",
-        "triplet": "Pretty good , thanks . And you ?<eos>What ' s the main idea in this essay ?<eos>The United Nations should have more authority .",
+        "triplet": "Pretty good , thanks . And you ?<eos>What's the main idea in this essay ?<eos>The United Nations should have more authority .",
         "categories": [
             "wh_question",
             "length_8"
@@ -192,7 +192,7 @@
     },
     {
         "id": "daily_dialogs-valid-004116",
-        "triplet": "Okay . Thank you very much .<eos>Do you need anything else ?<eos>No , that ' s all . Thanks .",
+        "triplet": "Okay . Thank you very much .<eos>Do you need anything else ?<eos>No , that's all . Thanks .",
         "categories": [
             "demonstrative_dets",
             "act_deny_elaborate",
@@ -243,7 +243,7 @@
     },
     {
         "id": "daily_dialogs-valid-003534",
-        "triplet": "I understand .<eos>You ' re fine with that ?<eos>I just want the problem taken care of .",
+        "triplet": "I understand .<eos>You're fine with that ?<eos>I just want the problem taken care of .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -333,7 +333,7 @@
     },
     {
         "id": "daily_dialogs-valid-012144",
-        "triplet": "Yeah .<eos>What happened ?<eos>My boss said I didn ' t have enough skills to do the job well .",
+        "triplet": "Yeah .<eos>What happened ?<eos>My boss said I didn't have enough skills to do the job well .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -454,7 +454,7 @@
     },
     {
         "id": "daily_dialogs-valid-008153",
-        "triplet": "15 .<eos>What about your brother ?<eos>He ' s not quite 25 .",
+        "triplet": "15 .<eos>What about your brother ?<eos>He's not quite 25 .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -463,7 +463,7 @@
     },
     {
         "id": "daily_dialogs-valid-003247",
-        "triplet": "What aren ' t you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
+        "triplet": "What aren't you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
         "categories": [
             "possessive_prons",
             "yes_no_question",
@@ -658,7 +658,7 @@
     },
     {
         "id": "daily_dialogs-train-008327",
-        "triplet": "What ? You don ' t love me ? Me , either .<eos>You don ' t love me ?<eos>No .",
+        "triplet": "What ? You don't love me ? Me , either .<eos>You don't love me ?<eos>No .",
         "categories": [
             "ellipsis_pred",
             "act_deny_elaborate",
@@ -707,7 +707,7 @@
     },
     {
         "id": "daily_dialogs-valid-002903",
-        "triplet": "Turn left at the second light and then go straight for two blocks .<eos>Is it far ?<eos>No . it ' s only five minutes walk . you can ' t miss it .",
+        "triplet": "Turn left at the second light and then go straight for two blocks .<eos>Is it far ?<eos>No . it's only five minutes walk . you can't miss it .",
         "categories": [
             "singular_personal_prons",
             "act_deny_elaborate",
@@ -728,7 +728,7 @@
     },
     {
         "id": "daily_dialogs-train-012409",
-        "triplet": "She has a yellow dress on and red sneakers .<eos>When did you last see her ?<eos>I just saw her down the street . I don ' t know where she is . I don ' t know ...",
+        "triplet": "She has a yellow dress on and red sneakers .<eos>When did you last see her ?<eos>I just saw her down the street . I don't know where she is . I don't know ...",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -756,7 +756,7 @@
     },
     {
         "id": "daily_dialogs-valid-002963",
-        "triplet": "The tape player doesn ' t work .<eos>O . K . Do you have your receipt ?<eos>Yes , here you are .",
+        "triplet": "The tape player doesn't work .<eos>O . K . Do you have your receipt ?<eos>Yes , here you are .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -794,7 +794,7 @@
     },
     {
         "id": "daily_dialogs-train-011077",
-        "triplet": "Du Tao . D U for Du and T A 0 for Tao .<eos>Yes , Mr . Du , when were you born ?<eos>I was born on January 1st , 1988 . I ' m 20 years old now .",
+        "triplet": "Du Tao . D U for Du and T A 0 for Tao .<eos>Yes , Mr . Du , when were you born ?<eos>I was born on January 1st , 1988 . I'm 20 years old now .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -803,7 +803,7 @@
     },
     {
         "id": "daily_dialogs-valid-013078",
-        "triplet": "Ten percent ! Now that ' s hefty !<eos>Wait a minute ... do you have an account with us ?<eos>Yes I do ; here is my account number .",
+        "triplet": "Ten percent ! Now that's hefty !<eos>Wait a minute ... do you have an account with us ?<eos>Yes I do ; here is my account number .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -846,7 +846,7 @@
     },
     {
         "id": "daily_dialogs-valid-003246",
-        "triplet": "Can we talk ?<eos>What about ?<eos>I ' m not too clear on some things about my lease .",
+        "triplet": "Can we talk ?<eos>What about ?<eos>I'm not too clear on some things about my lease .",
         "categories": [
             "ellipsis_pred",
             "possessive_prons",
@@ -1120,7 +1120,7 @@
     },
     {
         "id": "daily_dialogs-train-012486",
-        "triplet": "I haven ' t seen you in a while . How have you been ?<eos>Things are going fairly well . How about you ?<eos>Well , I ' m hanging in there , but I lost my job and need to find another one quickly .",
+        "triplet": "I haven't seen you in a while . How have you been ?<eos>Things are going fairly well . How about you ?<eos>Well , I'm hanging in there , but I lost my job and need to find another one quickly .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1465,7 +1465,7 @@
     },
     {
         "id": "daily_dialogs-valid-002844",
-        "triplet": "Here ' s an interesting ad , For rent . Two bedroom , unfurnished house , fenced yard , one car garage . Pets OK .<eos>How much is the rent ?<eos>The ad says 325 plus deposit .",
+        "triplet": "Here's an interesting ad , For rent . Two bedroom , unfurnished house , fenced yard , one car garage . Pets OK .<eos>How much is the rent ?<eos>The ad says 325 plus deposit .",
         "categories": [
             "wh_question",
             "length_7"
@@ -1493,7 +1493,7 @@
     },
     {
         "id": "daily_dialogs-train-003083",
-        "triplet": "Okay , is there anything else ?<eos>Is this salami and bologna you have here ?<eos>Yes ! It ' s very fine meat ! Made it myself ...",
+        "triplet": "Okay , is there anything else ?<eos>Is this salami and bologna you have here ?<eos>Yes ! It's very fine meat ! Made it myself ...",
         "categories": [
             "reflexive_prons",
             "singular_personal_prons",
@@ -1708,7 +1708,7 @@
     },
     {
         "id": "daily_dialogs-valid-012044",
-        "triplet": "According to the company rule , we should punch in before 8 o ' clock and punch out after 5 o ' clock every work day .<eos>How about the lunch break , Lucy ?<eos>From 11 thirty to 1 o ' clock .",
+        "triplet": "According to the company rule , we should punch in before 8 o'clock and punch out after 5 o'clock every work day .<eos>How about the lunch break , Lucy ?<eos>From 11 thirty to 1 o'clock .",
         "categories": [
             "ellipsis_pred",
             "open_question",

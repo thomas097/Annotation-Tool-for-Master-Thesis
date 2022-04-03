@@ -41,7 +41,7 @@
     },
     {
         "id": "daily_dialogs-valid-002297",
-        "triplet": "I am so busy today .<eos>Can I help you ?<eos>I ' m not sure . Perhaps you could do the shopping .",
+        "triplet": "I am so busy today .<eos>Can I help you ?<eos>I'm not sure . Perhaps you could do the shopping .",
         "categories": [
             "singular_personal_prons",
             "length_13"
@@ -274,7 +274,7 @@
     },
     {
         "id": "daily_dialogs-train-012620",
-        "triplet": "Oh , yeah ?<eos>Yeah , where is yours ?<eos>I don ' t know .",
+        "triplet": "Oh , yeah ?<eos>Yeah , where is yours ?<eos>I don't know .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -310,7 +310,7 @@
     },
     {
         "id": "daily_dialogs-train-008807",
-        "triplet": "That ' s right . I grew a beard during the trip , but I shaved it off when I came home .<eos>Why did you shave it off ?<eos>My wife didn ' t like it !",
+        "triplet": "That's right . I grew a beard during the trip , but I shaved it off when I came home .<eos>Why did you shave it off ?<eos>My wife didn't like it !",
         "categories": [
             "ellipsis_pred",
             "possessive_prons",
@@ -657,7 +657,7 @@
     },
     {
         "id": "daily_dialogs-valid-007011",
-        "triplet": "Sure . Thank you very much .<eos>Then I ' ll pick you up at six thirty . OK ?<eos>Ok , see you .",
+        "triplet": "Sure . Thank you very much .<eos>Then I'll pick you up at six thirty . OK ?<eos>Ok , see you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -856,7 +856,7 @@
     },
     {
         "id": "daily_dialogs-train-012670",
-        "triplet": "I ' m going back to college .<eos>What are you going to major in ?<eos>I haven ' t thought about it yet .",
+        "triplet": "I'm going back to college .<eos>What are you going to major in ?<eos>I haven't thought about it yet .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1039,7 +1039,7 @@
     },
     {
         "id": "daily_dialogs-valid-002195",
-        "triplet": "We ' re looking for a three bedroom home .<eos>What ' s your general price range ?<eos>Under 300 , 000 RIB , we suppose .",
+        "triplet": "We're looking for a three bedroom home .<eos>What's your general price range ?<eos>Under 300 , 000 RIB , we suppose .",
         "categories": [
             "plural_personal_prons",
             "wh_question",
@@ -1124,7 +1124,7 @@
     },
     {
         "id": "daily_dialogs-valid-013066",
-        "triplet": "It was ?<eos>Do you have another card ?<eos>That ' s my only one .",
+        "triplet": "It was ?<eos>Do you have another card ?<eos>That's my only one .",
         "categories": [
             "possessive_prons",
             "demonstrative_dets",
@@ -1190,7 +1190,7 @@
     },
     {
         "id": "daily_dialogs-train-003141",
-        "triplet": "What for ? For the party , of course .<eos>Party ? What party ?<eos>We ' re having a Valentine ' s Day Party .",
+        "triplet": "What for ? For the party , of course .<eos>Party ? What party ?<eos>We're having a Valentine's Day Party .",
         "categories": [
             "ellipsis_pred",
             "plural_personal_prons",
@@ -1248,7 +1248,7 @@
     },
     {
         "id": "daily_dialogs-train-012169",
-        "triplet": "No , it ' s the fourth time .<eos>Good . Is there anything you find changed about the Fair ?<eos>Yes , a great deal . The business scope has been broadened , and there are more visitors than ever before .",
+        "triplet": "No , it's the fourth time .<eos>Good . Is there anything you find changed about the Fair ?<eos>Yes , a great deal . The business scope has been broadened , and there are more visitors than ever before .",
         "categories": [
             "act_confirm_elaborate",
             "yes_no_question",
@@ -1276,7 +1276,7 @@
     },
     {
         "id": "daily_dialogs-valid-006911",
-        "triplet": "Oh , I loved it . I only visited a couple of cities , you know . But I had a great time .<eos>Well , tell me . What are they like ?<eos>They ' re nice .",
+        "triplet": "Oh , I loved it . I only visited a couple of cities , you know . But I had a great time .<eos>Well , tell me . What are they like ?<eos>They're nice .",
         "categories": [
             "plural_personal_prons",
             "wh_question",
@@ -1622,7 +1622,7 @@
     },
     {
         "id": "daily_dialogs-valid-002024",
-        "triplet": "Yes . I ' ll have a room free next week .<eos>What do you charge ?<eos>25 . 00 dollars a week , but you can't have visitors .",
+        "triplet": "Yes . I'll have a room free next week .<eos>What do you charge ?<eos>25 . 00 dollars a week , but you can't have visitors .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -1747,7 +1747,7 @@
     },
     {
         "id": "daily_dialogs-train-011950",
-        "triplet": "You ' ll be paid a bonus at the end of every year .<eos>Do I have training opportunities ?<eos>We provide our employees with training opportunities at home and abroad .",
+        "triplet": "You'll be paid a bonus at the end of every year .<eos>Do I have training opportunities ?<eos>We provide our employees with training opportunities at home and abroad .",
         "categories": [
             "possessive_prons",
             "plural_personal_prons",
@@ -1884,7 +1884,7 @@
     },
     {
         "id": "daily_dialogs-valid-000494",
-        "triplet": "Yes , there are three stops left .<eos>How long is the ride ?<eos>Well , you will get there in about a quarter of an hour if the traffic isn ' t too heavy .",
+        "triplet": "Yes , there are three stops left .<eos>How long is the ride ?<eos>Well , you will get there in about a quarter of an hour if the traffic isn't too heavy .",
         "categories": [
             "singular_personal_prons",
             "wh_question",

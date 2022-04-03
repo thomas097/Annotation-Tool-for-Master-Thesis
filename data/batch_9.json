@@ -308,7 +308,7 @@
     },
     {
         "id": "daily_dialogs-train-011081",
-        "triplet": "Cooke Co . does a lot of placements in your field .<eos>Ya , they do . Anyone else come to mind ?<eos>Not at the moment , but I ' ll let you know .",
+        "triplet": "Cooke Co . does a lot of placements in your field .<eos>Ya , they do . Anyone else come to mind ?<eos>Not at the moment , but I'll let you know .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -393,7 +393,7 @@
     },
     {
         "id": "daily_dialogs-train-013052",
-        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I ' m going to cancel the fees you owe .",
+        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I'm going to cancel the fees you owe .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -675,7 +675,7 @@
     },
     {
         "id": "daily_dialogs-valid-006879",
-        "triplet": "Not because I ' m keeping an eye on the baby .<eos>Where is the baby ' s mother ?<eos>She is at the supermarket downstairs . She said she would be back in about half an hour .",
+        "triplet": "Not because I'm keeping an eye on the baby .<eos>Where is the baby's mother ?<eos>She is at the supermarket downstairs . She said she would be back in about half an hour .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -802,7 +802,7 @@
     },
     {
         "id": "daily_dialogs-train-002521",
-        "triplet": "I was wondering if you guys also tailor clothes ?<eos>Sure we do ! We have the best tailors in the country ! What is it that you need exactly ?<eos>Well , I ' m looking to get a custom made suit .",
+        "triplet": "I was wondering if you guys also tailor clothes ?<eos>Sure we do ! We have the best tailors in the country ! What is it that you need exactly ?<eos>Well , I'm looking to get a custom made suit .",
         "categories": [
             "singular_personal_prons",
             "length_13"
@@ -819,7 +819,7 @@
     },
     {
         "id": "daily_dialogs-valid-007014",
-        "triplet": "Hello , my old friend . Long time no see . How are you doing ?<eos>Well , I ' m doing okay . And how about yourself ?<eos>Not so well . To be honest with you , I broke up with Tom .",
+        "triplet": "Hello , my old friend . Long time no see . How are you doing ?<eos>Well , I'm doing okay . And how about yourself ?<eos>Not so well . To be honest with you , I broke up with Tom .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -970,7 +970,7 @@
     },
     {
         "id": "daily_dialogs-train-012342",
-        "triplet": "well , women are the ones giving birth . I think it ' s fair to give them more time , don ' t you ?<eos>I guess so . I don ' t have any other questions . Should I sign here then ?<eos>yes , please .",
+        "triplet": "well , women are the ones giving birth . I think it's fair to give them more time , don't you ?<eos>I guess so . I don't have any other questions . Should I sign here then ?<eos>yes , please .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
@@ -1115,7 +1115,7 @@
     },
     {
         "id": "daily_dialogs-train-006974",
-        "triplet": "Ahh ... What a fine day ! I do feel like an outdoor exercise .<eos>How about taking a walk in the park ?<eos>OK . It ' s delightful to have a walk in the park with the air so fresh .",
+        "triplet": "Ahh ... What a fine day ! I do feel like an outdoor exercise .<eos>How about taking a walk in the park ?<eos>OK . It's delightful to have a walk in the park with the air so fresh .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -1487,7 +1487,7 @@
     },
     {
         "id": "daily_dialogs-train-002918",
-        "triplet": "By subway .<eos>Oh , is that right ? Is there a subway station near here ?<eos>Yes . There ' s one on the other side of the building .",
+        "triplet": "By subway .<eos>Oh , is that right ? Is there a subway station near here ?<eos>Yes . There's one on the other side of the building .",
         "categories": [
             "ellipsis_subj",
             "act_confirm_elaborate",
@@ -1874,7 +1874,7 @@
     },
     {
         "id": "daily_dialogs-valid-004325",
-        "triplet": "I ' m not lying .<eos>Are you upset ?<eos>I had high hopes for NYU .",
+        "triplet": "I'm not lying .<eos>Are you upset ?<eos>I had high hopes for NYU .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",

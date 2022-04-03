@@ -146,7 +146,7 @@
     },
     {
         "id": "daily_dialogs-train-008418",
-        "triplet": "I ' m glad to have had the opportunity to meet you here .<eos>I trust you ' re keeping well ?<eos>I ' m doing great , thank you .",
+        "triplet": "I'm glad to have had the opportunity to meet you here .<eos>I trust you're keeping well ?<eos>I'm doing great , thank you .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -289,7 +289,7 @@
     },
     {
         "id": "daily_dialogs-valid-007630",
-        "triplet": "I am 40 years old and was born and raised here in the good old U . S of A , although I have some Colombian heritage .<eos>Really ? That ' s great ! Do you speak some Spanish ?<eos>Uh ... yeah .. of course !",
+        "triplet": "I am 40 years old and was born and raised here in the good old U . S of A , although I have some Colombian heritage .<eos>Really ? That's great ! Do you speak some Spanish ?<eos>Uh ... yeah .. of course !",
         "categories": [
             "ellipsis_pred",
             "yes_no_question",
@@ -439,7 +439,7 @@
     },
     {
         "id": "daily_dialogs-valid-008465",
-        "triplet": "Yes , with a B .<eos>Won ' t you come in , Mr . Barker ?<eos>Thank you , Mr . Parker .",
+        "triplet": "Yes , with a B .<eos>Won't you come in , Mr . Barker ?<eos>Thank you , Mr . Parker .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -505,7 +505,7 @@
     },
     {
         "id": "daily_dialogs-valid-007219",
-        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn ' t it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
+        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn't it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -566,7 +566,7 @@
     },
     {
         "id": "daily_dialogs-valid-006370",
-        "triplet": "I like him very much . He ' s a gay dog .<eos>Are you ready to welcome him ?<eos>I am all set . He can come anytime .",
+        "triplet": "I like him very much . He's a gay dog .<eos>Are you ready to welcome him ?<eos>I am all set . He can come anytime .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -633,7 +633,7 @@
     },
     {
         "id": "daily_dialogs-valid-010189",
-        "triplet": "You can take the subway to get there<eos>How long will I take it to get there ?<eos>It ' s takes only about 10 minutes",
+        "triplet": "You can take the subway to get there<eos>How long will I take it to get there ?<eos>It's takes only about 10 minutes",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -698,7 +698,7 @@
     },
     {
         "id": "daily_dialogs-valid-002894",
-        "triplet": "I have some I can bring from our place , and there ' s some more out at my parents ' .<eos>Do you have a bed ?<eos>Yeah . I have one from college at my parents ' house .",
+        "triplet": "I have some I can bring from our place , and there's some more out at my parents'.<eos>Do you have a bed ?<eos>Yeah . I have one from college at my parents'house .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1021,7 +1021,7 @@
     },
     {
         "id": "daily_dialogs-train-004004",
-        "triplet": "I used to think that Americans had so much money they didn ' t know what to do with it .<eos>You did ?<eos>Yes . But now I ' Ve learned differently . Now I have a more realistic opinion .",
+        "triplet": "I used to think that Americans had so much money they didn't know what to do with it .<eos>You did ?<eos>Yes . But now I'Ve learned differently . Now I have a more realistic opinion .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -1081,7 +1081,7 @@
     },
     {
         "id": "daily_dialogs-train-008179",
-        "triplet": "That ' s a good idea<eos>Well . What ' s the climate like in your country ?<eos>It ' s mild . but it ' s not always pleasant .",
+        "triplet": "That's a good idea<eos>Well . What's the climate like in your country ?<eos>It's mild . but it's not always pleasant .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1304,7 +1304,7 @@
     },
     {
         "id": "daily_dialogs-valid-004990",
-        "triplet": "Well , I ' Ve got some papers due .<eos>Really ? So what ' s the news ?<eos>Not too good yet . Better than I was though .",
+        "triplet": "Well , I'Ve got some papers due .<eos>Really ? So what's the news ?<eos>Not too good yet . Better than I was though .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",

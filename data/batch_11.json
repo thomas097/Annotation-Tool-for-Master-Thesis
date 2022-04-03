@@ -351,7 +351,7 @@
     },
     {
         "id": "daily_dialogs-valid-009008",
-        "triplet": "We went out to the stadium . Bob hadn ' t been to a game for a few weeks .<eos>How ' d it go ? Did we win ?<eos>Nope , lost again . But , it was a good game .",
+        "triplet": "We went out to the stadium . Bob hadn't been to a game for a few weeks .<eos>How'd it go ? Did we win ?<eos>Nope , lost again . But , it was a good game .",
         "categories": [
             "singular_personal_prons",
             "act_deny_elaborate",
@@ -390,7 +390,7 @@
     },
     {
         "id": "daily_dialogs-train-013052",
-        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I ' m going to cancel the fees you owe .",
+        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I'm going to cancel the fees you owe .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -778,7 +778,7 @@
     },
     {
         "id": "daily_dialogs-valid-006950",
-        "triplet": "I ' m very sorry I can ' t .<eos>Why not ?<eos>I ' m afraid I have some business to attend to .",
+        "triplet": "I'm very sorry I can't .<eos>Why not ?<eos>I'm afraid I have some business to attend to .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -867,7 +867,7 @@
     },
     {
         "id": "daily_dialogs-valid-001982",
-        "triplet": "It's 1446 Pine Street .<eos>1446 Pine . That ' s in San Francisco , isn't it ?<eos>Yes , it is .",
+        "triplet": "It's 1446 Pine Street .<eos>1446 Pine . That's in San Francisco , isn't it ?<eos>Yes , it is .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -1032,7 +1032,7 @@
     },
     {
         "id": "daily_dialogs-valid-013058",
-        "triplet": "I want to pay all of it off today .<eos>How will you be paying ?<eos>I ' ll be paying with cash .",
+        "triplet": "I want to pay all of it off today .<eos>How will you be paying ?<eos>I'll be paying with cash .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1204,7 +1204,7 @@
     },
     {
         "id": "daily_dialogs-valid-001362",
-        "triplet": "You look pretty in red .<eos>Oh , it ' s my favorite . How much is it ?<eos>29 . 99 .",
+        "triplet": "You look pretty in red .<eos>Oh , it's my favorite . How much is it ?<eos>29 . 99 .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -1574,7 +1574,7 @@
     },
     {
         "id": "daily_dialogs-train-001610",
-        "triplet": "It ' s about an hour ' s drive .<eos>I need to get there before ten . Can we make it ?<eos>I can ' t promise , but I ' ll do my best .",
+        "triplet": "It's about an hour's drive .<eos>I need to get there before ten . Can we make it ?<eos>I can't promise , but I'll do my best .",
         "categories": [
             "ellipsis_pred",
             "possessive_prons",
@@ -1594,7 +1594,7 @@
     },
     {
         "id": "daily_dialogs-train-008250",
-        "triplet": "Oh , I am sorry , Jason . I've already got plans for Friday evening . How about Saturday ?<eos>Saturday is fine . I'll make dinner reservations for 7 o ' clock . Is that ok ?<eos>7 is fine with me .",
+        "triplet": "Oh , I am sorry , Jason . I've already got plans for Friday evening . How about Saturday ?<eos>Saturday is fine . I'll make dinner reservations for 7 o'clock . Is that ok ?<eos>7 is fine with me .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1642,7 +1642,7 @@
     },
     {
         "id": "daily_dialogs-train-010293",
-        "triplet": "He said I ' d got the flu .<eos>Oh dear ! What did he tell you to do ?<eos>He told me to stay in bed for ten days .",
+        "triplet": "He said I'd got the flu .<eos>Oh dear ! What did he tell you to do ?<eos>He told me to stay in bed for ten days .",
         "categories": [
             "singular_personal_prons",
             "wh_question",

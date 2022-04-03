@@ -252,7 +252,7 @@
     },
     {
         "id": "daily_dialogs-train-001337",
-        "triplet": "Here ' s the master bedroom .<eos>Wow , it ' s nice . What did you say about the rent ?<eos>900 a month .",
+        "triplet": "Here's the master bedroom .<eos>Wow , it's nice . What did you say about the rent ?<eos>900 a month .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -368,7 +368,7 @@
     },
     {
         "id": "daily_dialogs-valid-013056",
-        "triplet": "Can I do that right now ?<eos>Will you be paying with cash or check ?<eos>I think I ' ll be paying with cash .",
+        "triplet": "Can I do that right now ?<eos>Will you be paying with cash or check ?<eos>I think I'll be paying with cash .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -414,7 +414,7 @@
     },
     {
         "id": "daily_dialogs-valid-013059",
-        "triplet": "You need to keep it at 100 .<eos>That ' s it ?<eos>That ' s the least amount you can have .",
+        "triplet": "You need to keep it at 100 .<eos>That's it ?<eos>That's the least amount you can have .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -442,7 +442,7 @@
     },
     {
         "id": "daily_dialogs-valid-008608",
-        "triplet": "Hey , watch where you ' re going !<eos>Oh , no ! I ' m so sorry ! Are you all right ?<eos>Oh ... I don ' t know .",
+        "triplet": "Hey , watch where you're going !<eos>Oh , no ! I'm so sorry ! Are you all right ?<eos>Oh ... I don't know .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -674,7 +674,7 @@
     },
     {
         "id": "daily_dialogs-train-010024",
-        "triplet": "Nancy Brown . My phone number ' s 709 678 5634 . Nancy Brown<eos>Thanks . What time will you arrive ?<eos>Around 3pm .",
+        "triplet": "Nancy Brown . My phone number's 709 678 5634 . Nancy Brown<eos>Thanks . What time will you arrive ?<eos>Around 3pm .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -832,7 +832,7 @@
     },
     {
         "id": "daily_dialogs-valid-009768",
-        "triplet": "Ok . That will be 1400RMB please .<eos>How long is the flight ?<eos>It ' s about three hours .",
+        "triplet": "Ok . That will be 1400RMB please .<eos>How long is the flight ?<eos>It's about three hours .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1180,7 +1180,7 @@
     },
     {
         "id": "daily_dialogs-valid-001984",
-        "triplet": "Yes , I think so . There is also an interesting one . It ' s opposite the park .<eos>How much is it ?<eos>It's 325 a month . It's the biggest we've got in this area .",
+        "triplet": "Yes , I think so . There is also an interesting one . It's opposite the park .<eos>How much is it ?<eos>It's 325 a month . It's the biggest we've got in this area .",
         "categories": [
             "singular_personal_prons",
             "plural_personal_prons",
@@ -1438,7 +1438,7 @@
     },
     {
         "id": "daily_dialogs-train-006028",
-        "triplet": "A ETV ? Are you serious ? ETV ?<eos>Yes , why not ? Don ' t you like ETV ?<eos>I don't know . I never went to one .",
+        "triplet": "A ETV ? Are you serious ? ETV ?<eos>Yes , why not ? Don't you like ETV ?<eos>I don't know . I never went to one .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1487,7 +1487,7 @@
     },
     {
         "id": "daily_dialogs-train-010080",
-        "triplet": "Can we have two a joining double room , sir ?<eos>Have you made a reservation ladies ?<eos>I ' m afraid not .",
+        "triplet": "Can we have two a joining double room , sir ?<eos>Have you made a reservation ladies ?<eos>I'm afraid not .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -1615,7 +1615,7 @@
     },
     {
         "id": "daily_dialogs-valid-007237",
-        "triplet": "She's my little niece . It ' s her birthday . They ' re singing Happy Birthday .<eos>Oh , I see . how old is she ?<eos>She's ten .",
+        "triplet": "She's my little niece . It's her birthday . They're singing Happy Birthday .<eos>Oh , I see . how old is she ?<eos>She's ten .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1713,7 +1713,7 @@
     },
     {
         "id": "daily_dialogs-train-010710",
-        "triplet": "I haven ' t been involved in international business , so I don ' t have any experience .<eos>What are you greatest strength ?<eos>Honest , hardworking and responsible .",
+        "triplet": "I haven't been involved in international business , so I don't have any experience .<eos>What are you greatest strength ?<eos>Honest , hardworking and responsible .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -1741,7 +1741,7 @@
     },
     {
         "id": "daily_dialogs-train-010278",
-        "triplet": "Good Morning , I have a bad cough , and I want to see an internist .<eos>Do you have a registration card ?<eos>No , I don ' t . I ' m a tourist .",
+        "triplet": "Good Morning , I have a bad cough , and I want to see an internist .<eos>Do you have a registration card ?<eos>No , I don't . I'm a tourist .",
         "categories": [
             "singular_personal_prons",
             "act_deny_elaborate",
@@ -1827,7 +1827,7 @@
     },
     {
         "id": "daily_dialogs-train-009911",
-        "triplet": "I need to continue to deal with my business . I haven ' t finished it yet .<eos>Oh , I see . Would you like me to reschedule you for another time ?<eos>No . Thank you .",
+        "triplet": "I need to continue to deal with my business . I haven't finished it yet .<eos>Oh , I see . Would you like me to reschedule you for another time ?<eos>No . Thank you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -1878,7 +1878,7 @@
     },
     {
         "id": "daily_dialogs-train-006461",
-        "triplet": "That ' s right . But I don ' t think there are better ways .<eos>How about printing a warning on each cigarette packet ?<eos>Maybe it can take effect .",
+        "triplet": "That's right . But I don't think there are better ways .<eos>How about printing a warning on each cigarette packet ?<eos>Maybe it can take effect .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",

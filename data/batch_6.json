@@ -40,7 +40,7 @@
     },
     {
         "id": "daily_dialogs-train-002460",
-        "triplet": "Hi , Clyde . This is my friend , Wen . She's visiting from UCLA .<eos>Clyde Smith . Pleasure to meet you . May I treat you ladies to dinner ?<eos>OK ! I was just tellin ' Wen about African American food .",
+        "triplet": "Hi , Clyde . This is my friend , Wen . She's visiting from UCLA .<eos>Clyde Smith . Pleasure to meet you . May I treat you ladies to dinner ?<eos>OK ! I was just tellin'Wen about African American food .",
         "categories": [
             "singular_personal_prons",
             "length_13"
@@ -48,7 +48,7 @@
     },
     {
         "id": "daily_dialogs-train-002025",
-        "triplet": "Yes . I ' Ve get a small room .<eos>How much do you charge ?<eos>35 . 00 dollars a week , but I don ' t allow smoking .",
+        "triplet": "Yes . I'Ve get a small room .<eos>How much do you charge ?<eos>35 . 00 dollars a week , but I don't allow smoking .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -123,7 +123,7 @@
     },
     {
         "id": "daily_dialogs-train-002899",
-        "triplet": "Then have you put it in the bedroom ?<eos>No . Now would you like to help me look for the book ?<eos>Ok . Look ! It ' s just near your foot .",
+        "triplet": "Then have you put it in the bedroom ?<eos>No . Now would you like to help me look for the book ?<eos>Ok . Look ! It's just near your foot .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -191,7 +191,7 @@
     },
     {
         "id": "daily_dialogs-valid-010569",
-        "triplet": "Thanks . Sorry . It just came as such a surprise . The baby isn ' t due for another two weeks .<eos>How long has she been in labor ?<eos>About fifteen minutes .",
+        "triplet": "Thanks . Sorry . It just came as such a surprise . The baby isn't due for another two weeks .<eos>How long has she been in labor ?<eos>About fifteen minutes .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -458,7 +458,7 @@
     },
     {
         "id": "daily_dialogs-valid-008153",
-        "triplet": "15 .<eos>What about your brother ?<eos>He ' s not quite 25 .",
+        "triplet": "15 .<eos>What about your brother ?<eos>He's not quite 25 .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -467,7 +467,7 @@
     },
     {
         "id": "daily_dialogs-valid-003247",
-        "triplet": "What aren ' t you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
+        "triplet": "What aren't you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
         "categories": [
             "possessive_prons",
             "yes_no_question",
@@ -662,7 +662,7 @@
     },
     {
         "id": "daily_dialogs-train-008327",
-        "triplet": "What ? You don ' t love me ? Me , either .<eos>You don ' t love me ?<eos>No .",
+        "triplet": "What ? You don't love me ? Me , either .<eos>You don't love me ?<eos>No .",
         "categories": [
             "ellipsis_pred",
             "act_deny_elaborate",
@@ -805,7 +805,7 @@
     },
     {
         "id": "daily_dialogs-train-000517",
-        "triplet": "That ' s fine . I'll have a try .<eos>Sir , your dish will take 5 minutes to prepare . While waiting , would you like anything to drink ?<eos>Martini , please .",
+        "triplet": "That's fine . I'll have a try .<eos>Sir , your dish will take 5 minutes to prepare . While waiting , would you like anything to drink ?<eos>Martini , please .",
         "categories": [
             "ellipsis_pred",
             "yes_no_question",
@@ -863,7 +863,7 @@
     },
     {
         "id": "daily_dialogs-valid-008214",
-        "triplet": "I don ' t think so .<eos>How about going to a concert ?<eos>That ' s should be fun .",
+        "triplet": "I don't think so .<eos>How about going to a concert ?<eos>That's should be fun .",
         "categories": [
             "demonstrative_dets",
             "open_question",
@@ -968,7 +968,7 @@
     },
     {
         "id": "daily_dialogs-valid-006940",
-        "triplet": "Mmm , you may be right .<eos>Do you think we ' ll need our overcoats ?<eos>No . We couldn ' t possibly .",
+        "triplet": "Mmm , you may be right .<eos>Do you think we'll need our overcoats ?<eos>No . We couldn't possibly .",
         "categories": [
             "ellipsis_pred",
             "plural_personal_prons",
@@ -1044,7 +1044,7 @@
     },
     {
         "id": "daily_dialogs-valid-002989",
-        "triplet": "A bit over two years . This is a fast moving company , and seniority isn ' t the only factor in deciding promotions .<eos>How do you like your new boss ?<eos>She is very nice and open minded .",
+        "triplet": "A bit over two years . This is a fast moving company , and seniority isn't the only factor in deciding promotions .<eos>How do you like your new boss ?<eos>She is very nice and open minded .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -1111,7 +1111,7 @@
     },
     {
         "id": "daily_dialogs-valid-003541",
-        "triplet": "Sure , go ahead .<eos>How do you get along with the American students in your classes ?<eos>I don ' t have much contact with them .",
+        "triplet": "Sure , go ahead .<eos>How do you get along with the American students in your classes ?<eos>I don't have much contact with them .",
         "categories": [
             "singular_personal_prons",
             "plural_personal_prons",
@@ -1140,7 +1140,7 @@
     },
     {
         "id": "daily_dialogs-valid-007125",
-        "triplet": "He is fine .<eos>He ' s going to be sent to Britain to study , really ?<eos>Yes . He ' s already got the passport and visa .",
+        "triplet": "He is fine .<eos>He's going to be sent to Britain to study , really ?<eos>Yes . He's already got the passport and visa .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -1191,7 +1191,7 @@
     },
     {
         "id": "daily_dialogs-valid-011166",
-        "triplet": "My name is Han Ran , number is 050920 .<eos>What part of the country do you come from ?<eos>I ' m from Living , Yunnan Province .",
+        "triplet": "My name is Han Ran , number is 050920 .<eos>What part of the country do you come from ?<eos>I'm from Living , Yunnan Province .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -1339,7 +1339,7 @@
     },
     {
         "id": "daily_dialogs-valid-004933",
-        "triplet": "Sunny and mild today , cloudy and rainy tomorrow .<eos>Did they find those bank robbers ?<eos>Not yet . They were holding two men in Ohio , but they let them go . They weren ' t the criminals after all .",
+        "triplet": "Sunny and mild today , cloudy and rainy tomorrow .<eos>Did they find those bank robbers ?<eos>Not yet . They were holding two men in Ohio , but they let them go . They weren't the criminals after all .",
         "categories": [
             "plural_personal_prons",
             "yes_no_question",
@@ -1559,7 +1559,7 @@
     },
     {
         "id": "daily_dialogs-valid-004896",
-        "triplet": "Well , I would say that I ' m just drifting here , in the pool .<eos>Why ?<eos>Well , it ' s very comfortable just to drift here .",
+        "triplet": "Well , I would say that I'm just drifting here , in the pool .<eos>Why ?<eos>Well , it's very comfortable just to drift here .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1753,7 +1753,7 @@
     },
     {
         "id": "daily_dialogs-train-008176",
-        "triplet": "Good morning Mr . Li<eos>It ' s a beautiful morning isn ' t it ?<eos>Oh . It ' s a nice day indeed",
+        "triplet": "Good morning Mr . Li<eos>It's a beautiful morning isn't it ?<eos>Oh . It's a nice day indeed",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1770,7 +1770,7 @@
     },
     {
         "id": "daily_dialogs-valid-007846",
-        "triplet": "Thank you .<eos>You ' re welcome . The rain is quite heavy , isn ' t it ?<eos>Yeah . I was in a hurry and I forgot my umbrella today .",
+        "triplet": "Thank you .<eos>You're welcome . The rain is quite heavy , isn't it ?<eos>Yeah . I was in a hurry and I forgot my umbrella today .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",

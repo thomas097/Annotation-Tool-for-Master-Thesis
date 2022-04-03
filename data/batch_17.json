@@ -126,7 +126,7 @@
     },
     {
         "id": "daily_dialogs-train-004535",
-        "triplet": "About 2 o ' clock in the morning .<eos>When ?<eos>About 2 o ' clock .",
+        "triplet": "About 2 o'clock in the morning .<eos>When ?<eos>About 2 o'clock .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -282,7 +282,7 @@
     },
     {
         "id": "daily_dialogs-valid-010749",
-        "triplet": "I ' m afraid there isn ' t . My boss only pays lip service .<eos>What is your salary expectation for this position ?<eos>My expectation is in the 3800 to 4500 RIB range . That ' s the take home pay .",
+        "triplet": "I'm afraid there isn't . My boss only pays lip service .<eos>What is your salary expectation for this position ?<eos>My expectation is in the 3800 to 4500 RIB range . That's the take home pay .",
         "categories": [
             "possessive_prons",
             "demonstrative_dets",
@@ -331,7 +331,7 @@
     },
     {
         "id": "daily_dialogs-valid-006909",
-        "triplet": "If you ask me , I don ' t think it ' s guilty .<eos>What do you mean by saying so ?<eos>I mean it ' s not his fault .",
+        "triplet": "If you ask me , I don't think it's guilty .<eos>What do you mean by saying so ?<eos>I mean it's not his fault .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -663,7 +663,7 @@
     },
     {
         "id": "daily_dialogs-valid-007011",
-        "triplet": "Sure . Thank you very much .<eos>Then I ' ll pick you up at six thirty . OK ?<eos>Ok , see you .",
+        "triplet": "Sure . Thank you very much .<eos>Then I'll pick you up at six thirty . OK ?<eos>Ok , see you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -785,7 +785,7 @@
     },
     {
         "id": "daily_dialogs-valid-012472",
-        "triplet": "Sure . My number is 545 8897 , and I live at 908 Mulbury Street .<eos>That ' s 545 8897 and your mailing address is 908 Mulbury Street . The zip code is 20310 , right ?<eos>That ' s right .",
+        "triplet": "Sure . My number is 545 8897 , and I live at 908 Mulbury Street .<eos>That's 545 8897 and your mailing address is 908 Mulbury Street . The zip code is 20310 , right ?<eos>That's right .",
         "categories": [
             "demonstrative_dets",
             "yes_no_question",
@@ -874,7 +874,7 @@
     },
     {
         "id": "daily_dialogs-train-004788",
-        "triplet": "Honey , I ' ll be right back !<eos>Where are you going ?<eos>I told you already ! I ' m going to get my nails done .",
+        "triplet": "Honey , I'll be right back !<eos>Where are you going ?<eos>I told you already ! I'm going to get my nails done .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -990,7 +990,7 @@
     },
     {
         "id": "daily_dialogs-valid-006217",
-        "triplet": "That ' s a good idea .<eos>What kind of qualities do you look for in a friend ?<eos>I ' m not sure . I guess I ' d like to meet some people who have a positive attitude and want to have a good time .",
+        "triplet": "That's a good idea .<eos>What kind of qualities do you look for in a friend ?<eos>I'm not sure . I guess I'd like to meet some people who have a positive attitude and want to have a good time .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1131,7 +1131,7 @@
     },
     {
         "id": "daily_dialogs-train-006540",
-        "triplet": "Well , she ' s tall and pretty .<eos>Is she like you ?<eos>I suppose so . We ' re both friendly and easy going .",
+        "triplet": "Well , she's tall and pretty .<eos>Is she like you ?<eos>I suppose so . We're both friendly and easy going .",
         "categories": [
             "singular_personal_prons",
             "plural_personal_prons",
@@ -1189,7 +1189,7 @@
     },
     {
         "id": "daily_dialogs-valid-006900",
-        "triplet": "Terrible .<eos>Oh , what ' s the matter ?<eos>I ' Ve got a fever and really a bad headache .",
+        "triplet": "Terrible .<eos>Oh , what's the matter ?<eos>I'Ve got a fever and really a bad headache .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1493,7 +1493,7 @@
     },
     {
         "id": "daily_dialogs-valid-002965",
-        "triplet": "Well , we could eat in more . That 300 for entertainment is mostly going to restaurants .<eos>Yeah , that ' s a good idea , and you like to cook . What about the books ?<eos>No , I need my books .",
+        "triplet": "Well , we could eat in more . That 300 for entertainment is mostly going to restaurants .<eos>Yeah , that's a good idea , and you like to cook . What about the books ?<eos>No , I need my books .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1552,7 +1552,7 @@
     },
     {
         "id": "daily_dialogs-valid-010060",
-        "triplet": "Hi . I ' m calling from Room 209 . I couldn ' t find the TV Guide . Can you send me one , please ?<eos>Sure . Anything else ?<eos>Yes . There is one more thing .",
+        "triplet": "Hi . I'm calling from Room 209 . I couldn't find the TV Guide . Can you send me one , please ?<eos>Sure . Anything else ?<eos>Yes . There is one more thing .",
         "categories": [
             "ellipsis_subj",
             "act_confirm_elaborate",
@@ -1591,7 +1591,7 @@
     },
     {
         "id": "daily_dialogs-train-004209",
-        "triplet": "David , I ' m going to China .<eos>Really ? How did you get the chance ?<eos>You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don ' t have to pay for my trip .",
+        "triplet": "David , I'm going to China .<eos>Really ? How did you get the chance ?<eos>You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don't have to pay for my trip .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1808,7 +1808,7 @@
     },
     {
         "id": "daily_dialogs-valid-011165",
-        "triplet": "My pen name is ' Dark Blue ' .<eos>How do you like your name ?<eos>I like it very much . My name has became part of me . I don ' t want to change it .",
+        "triplet": "My pen name is'Dark Blue'.<eos>How do you like your name ?<eos>I like it very much . My name has became part of me . I don't want to change it .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",

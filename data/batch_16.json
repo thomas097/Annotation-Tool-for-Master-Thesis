@@ -11,7 +11,7 @@
     },
     {
         "id": "daily_dialogs-train-000458",
-        "triplet": "Taxi ! Taxi ! Could you help me load these luggage in the trunk ?<eos>Let me just park my car in a better position . Alright , miss . Where ' s the luggage ?<eos>Over there .",
+        "triplet": "Taxi ! Taxi ! Could you help me load these luggage in the trunk ?<eos>Let me just park my car in a better position . Alright , miss . Where's the luggage ?<eos>Over there .",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -76,7 +76,7 @@
     },
     {
         "id": "daily_dialogs-train-001898",
-        "triplet": "I want to go back to my college on the Huanghe road . It is very close to your house .<eos>Is that the university next to the Teachers ' College ?<eos>That's the one .",
+        "triplet": "I want to go back to my college on the Huanghe road . It is very close to your house .<eos>Is that the university next to the Teachers'College ?<eos>That's the one .",
         "categories": [
             "demonstrative_dets",
             "yes_no_question",
@@ -217,7 +217,7 @@
     },
     {
         "id": "daily_dialogs-valid-003238",
-        "triplet": "My hat ' s new , too .<eos>What color is it ?<eos>It ' s the same color . It ' s green , too .",
+        "triplet": "My hat's new , too .<eos>What color is it ?<eos>It's the same color . It's green , too .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -647,7 +647,7 @@
     },
     {
         "id": "daily_dialogs-valid-007011",
-        "triplet": "Sure . Thank you very much .<eos>Then I ' ll pick you up at six thirty . OK ?<eos>Ok , see you .",
+        "triplet": "Sure . Thank you very much .<eos>Then I'll pick you up at six thirty . OK ?<eos>Ok , see you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -800,7 +800,7 @@
     },
     {
         "id": "daily_dialogs-train-006829",
-        "triplet": "Yeah . But in my heart of hearts , I find he ' s not very much to my liking .<eos>Then why not keep away from him ?<eos>The problem is that I just have no one to turn to right now .",
+        "triplet": "Yeah . But in my heart of hearts , I find he's not very much to my liking .<eos>Then why not keep away from him ?<eos>The problem is that I just have no one to turn to right now .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -1015,7 +1015,7 @@
     },
     {
         "id": "daily_dialogs-valid-003924",
-        "triplet": "What would you say if I told you I was going to quit school ?<eos>I ' d say , think twice about it . Well , you are not going to quit school , are you ?<eos>I don't know . I failed my exam .",
+        "triplet": "What would you say if I told you I was going to quit school ?<eos>I'd say , think twice about it . Well , you are not going to quit school , are you ?<eos>I don't know . I failed my exam .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1248,7 +1248,7 @@
     },
     {
         "id": "daily_dialogs-train-006566",
-        "triplet": "I ' m starving , too . There is a new Chinese restaurant close by . Do you want to go there for lunch ?<eos>Why not ?<eos>It ' s my treat this time .",
+        "triplet": "I'm starving , too . There is a new Chinese restaurant close by . Do you want to go there for lunch ?<eos>Why not ?<eos>It's my treat this time .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",

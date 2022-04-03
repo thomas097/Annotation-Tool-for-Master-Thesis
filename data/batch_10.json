@@ -1,7 +1,7 @@
 [
     {
         "id": "daily_dialogs-train-008688",
-        "triplet": "if you can choose , will you marry a foreigner or a Chinese ?<eos>why ? Did tom pop the question ?<eos>not yet . But I wonder if I can get my parents ' consent .",
+        "triplet": "if you can choose , will you marry a foreigner or a Chinese ?<eos>why ? Did tom pop the question ?<eos>not yet . But I wonder if I can get my parents'consent .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -140,7 +140,7 @@
     },
     {
         "id": "daily_dialogs-valid-012539",
-        "triplet": "Could I speak to you for a minute ?<eos>What do you want to speak to me about ?<eos>I want to talk about this year ' s election .",
+        "triplet": "Could I speak to you for a minute ?<eos>What do you want to speak to me about ?<eos>I want to talk about this year's election .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -210,7 +210,7 @@
     },
     {
         "id": "daily_dialogs-train-008481",
-        "triplet": "Well , I have the day off from work .<eos>That ' s great ! Do you have any plans ?<eos>Well , I ' Ve been working so hard lately , so I ' ll probably just take it easy .",
+        "triplet": "Well , I have the day off from work .<eos>That's great ! Do you have any plans ?<eos>Well , I'Ve been working so hard lately , so I'll probably just take it easy .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -411,7 +411,7 @@
     },
     {
         "id": "daily_dialogs-train-013052",
-        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I ' m going to cancel the fees you owe .",
+        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I'm going to cancel the fees you owe .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -811,7 +811,7 @@
     },
     {
         "id": "daily_dialogs-valid-012632",
-        "triplet": "He is very intelligent .<eos>You think so ?<eos>That ' s right . Plus , I agree with his policies .",
+        "triplet": "He is very intelligent .<eos>You think so ?<eos>That's right . Plus , I agree with his policies .",
         "categories": [
             "possessive_prons",
             "demonstrative_dets",
@@ -822,7 +822,7 @@
     },
     {
         "id": "daily_dialogs-valid-001584",
-        "triplet": "The nearest one is about ten minutes ' walk from here .<eos>how can I get there ?<eos>just walk down this road and you'll find it . it's on the right side .",
+        "triplet": "The nearest one is about ten minutes'walk from here .<eos>how can I get there ?<eos>just walk down this road and you'll find it . it's on the right side .",
         "categories": [
             "singular_personal_prons",
             "length_18"
@@ -885,7 +885,7 @@
     },
     {
         "id": "daily_dialogs-valid-000680",
-        "triplet": "May I take your order now ?<eos>Yes , please . What's special today ? Any special recommendations ?<eos>Certainly . I would recommend ' Songshuguiyu ' .",
+        "triplet": "May I take your order now ?<eos>Yes , please . What's special today ? Any special recommendations ?<eos>Certainly . I would recommend'Songshuguiyu'.",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -923,7 +923,7 @@
     },
     {
         "id": "daily_dialogs-valid-004531",
-        "triplet": "I just got a telegram from Margaret and Greg .<eos>Are they coming to Chicago again ?<eos>Yes . They ' re coming the beginning of August .",
+        "triplet": "I just got a telegram from Margaret and Greg .<eos>Are they coming to Chicago again ?<eos>Yes . They're coming the beginning of August .",
         "categories": [
             "ellipsis_pred",
             "plural_personal_prons",
@@ -1264,7 +1264,7 @@
     },
     {
         "id": "daily_dialogs-train-012493",
-        "triplet": "I am calling to find out why I didn ' t receive an unemployment check this week .<eos>Did you send in your Continued Claim Form for the last period ?<eos>I think I forgot to send it in !",
+        "triplet": "I am calling to find out why I didn't receive an unemployment check this week .<eos>Did you send in your Continued Claim Form for the last period ?<eos>I think I forgot to send it in !",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1273,7 +1273,7 @@
     },
     {
         "id": "daily_dialogs-valid-000567",
-        "triplet": "Would you like to try my special recipe ?<eos>Wow , let me try . It tastes nice . How did you make it ?<eos>It ' s as easy as pie . I always follow recipes .",
+        "triplet": "Would you like to try my special recipe ?<eos>Wow , let me try . It tastes nice . How did you make it ?<eos>It's as easy as pie . I always follow recipes .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1444,7 +1444,7 @@
     },
     {
         "id": "daily_dialogs-valid-001942",
-        "triplet": "Would you like me to type it for you ?<eos>Yes , please . That would be a great help . Are you sure you don ' t mind ?<eos>Not at all . I ' ll be glad to do it .",
+        "triplet": "Would you like me to type it for you ?<eos>Yes , please . That would be a great help . Are you sure you don't mind ?<eos>Not at all . I'll be glad to do it .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1580,7 +1580,7 @@
     },
     {
         "id": "daily_dialogs-valid-010582",
-        "triplet": "I want to change to next Tuesday .<eos>What time would you prefer ?<eos>I would prefer three o ' clock in the afternoon .",
+        "triplet": "I want to change to next Tuesday .<eos>What time would you prefer ?<eos>I would prefer three o'clock in the afternoon .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1675,7 +1675,7 @@
     },
     {
         "id": "daily_dialogs-valid-001884",
-        "triplet": "Yes . My home freezer is not working properly .<eos>What ' s the problem ?<eos>It keeps running all the time , never stopping . And it makes a strange sound . All the ice cream inside it melted .",
+        "triplet": "Yes . My home freezer is not working properly .<eos>What's the problem ?<eos>It keeps running all the time , never stopping . And it makes a strange sound . All the ice cream inside it melted .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1762,7 +1762,7 @@
     },
     {
         "id": "daily_dialogs-train-002296",
-        "triplet": "Well , Peter , you have to do better than that next time , won ' t you ?<eos>Have I really got to do those exams again , Dad ?<eos>Of course , you have . You must try harder this time .",
+        "triplet": "Well , Peter , you have to do better than that next time , won't you ?<eos>Have I really got to do those exams again , Dad ?<eos>Of course , you have . You must try harder this time .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1771,7 +1771,7 @@
     },
     {
         "id": "daily_dialogs-valid-011162",
-        "triplet": "I ' ll do my best , but sometimes I have trouble being myself in stressful situations .<eos>Have you updated your resume recently ?<eos>Yes ... ah ! I forgot to include my e mail address .",
+        "triplet": "I'll do my best , but sometimes I have trouble being myself in stressful situations .<eos>Have you updated your resume recently ?<eos>Yes ... ah ! I forgot to include my e mail address .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1912,7 +1912,7 @@
     },
     {
         "id": "daily_dialogs-train-009390",
-        "triplet": "Yes , I'd like some information about the trains to Beijing .<eos>When do you want to go ?<eos>On July 7 , I have to be there well before twelve o ' clock .",
+        "triplet": "Yes , I'd like some information about the trains to Beijing .<eos>When do you want to go ?<eos>On July 7 , I have to be there well before twelve o'clock .",
         "categories": [
             "singular_personal_prons",
             "wh_question",

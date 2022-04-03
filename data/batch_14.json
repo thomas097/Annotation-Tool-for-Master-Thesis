@@ -127,7 +127,7 @@
     },
     {
         "id": "daily_dialogs-train-012685",
-        "triplet": "I had nothing to do with the crime that was committed .<eos>Who is the guilty party ?<eos>I ' ll tell you if you let me go .",
+        "triplet": "I had nothing to do with the crime that was committed .<eos>Who is the guilty party ?<eos>I'll tell you if you let me go .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -320,7 +320,7 @@
     },
     {
         "id": "daily_dialogs-train-010143",
-        "triplet": "Sure . There ' s a lot here in this pamphlet .<eos>Thank you . And what ' s the best way to get downtown ?<eos>Take the subway . It ' s 1 . 50 per ride . You can buy a metro card at the station .",
+        "triplet": "Sure . There's a lot here in this pamphlet .<eos>Thank you . And what's the best way to get downtown ?<eos>Take the subway . It's 1 . 50 per ride . You can buy a metro card at the station .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -358,7 +358,7 @@
     },
     {
         "id": "daily_dialogs-train-008816",
-        "triplet": "Have your mechanics finished yet ?<eos>No , they're still working on it . Let's go into the garage and have a look at it . Isn ' t that your car ?<eos>Well , it was my car .",
+        "triplet": "Have your mechanics finished yet ?<eos>No , they're still working on it . Let's go into the garage and have a look at it . Isn't that your car ?<eos>Well , it was my car .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -415,7 +415,7 @@
     },
     {
         "id": "daily_dialogs-valid-013059",
-        "triplet": "You need to keep it at 100 .<eos>That ' s it ?<eos>That ' s the least amount you can have .",
+        "triplet": "You need to keep it at 100 .<eos>That's it ?<eos>That's the least amount you can have .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -443,7 +443,7 @@
     },
     {
         "id": "daily_dialogs-valid-008608",
-        "triplet": "Hey , watch where you ' re going !<eos>Oh , no ! I ' m so sorry ! Are you all right ?<eos>Oh ... I don ' t know .",
+        "triplet": "Hey , watch where you're going !<eos>Oh , no ! I'm so sorry ! Are you all right ?<eos>Oh ... I don't know .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -829,7 +829,7 @@
     },
     {
         "id": "daily_dialogs-valid-004816",
-        "triplet": "I had one or two glasses of eggnog , but nothing else .<eos>Step out of the vehicle , please . Sir , what do you have in the back ?<eos>Just a few Christmas gifts , ' tis the season , after all !",
+        "triplet": "I had one or two glasses of eggnog , but nothing else .<eos>Step out of the vehicle , please . Sir , what do you have in the back ?<eos>Just a few Christmas gifts ,'tis the season , after all !",
         "categories": [
             "ellipsis_pred",
             "wh_question",
@@ -1632,7 +1632,7 @@
     },
     {
         "id": "daily_dialogs-valid-007678",
-        "triplet": "So , shall we allow three hours to cover the distance ?<eos>Ok . You haven ' t seen my company car , have you ?<eos>No . let me take a look ... It ' s longer than my car .",
+        "triplet": "So , shall we allow three hours to cover the distance ?<eos>Ok . You haven't seen my company car , have you ?<eos>No . let me take a look ... It's longer than my car .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1721,7 +1721,7 @@
     },
     {
         "id": "daily_dialogs-train-006390",
-        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn ' t it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
+        "triplet": "I'm very well , thank you . How are you ?<eos>Very well too , thank you very much . Isn't it a lovely day ?<eos>Yes , it's beautiful , but it's also very hot .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -1731,7 +1731,7 @@
     },
     {
         "id": "daily_dialogs-train-010225",
-        "triplet": "Certainly .<eos>And do you have any medicine for air sickness ?<eos>Well , yes . I ' ll give him the medicine too .",
+        "triplet": "Certainly .<eos>And do you have any medicine for air sickness ?<eos>Well , yes . I'll give him the medicine too .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1796,7 +1796,7 @@
     },
     {
         "id": "daily_dialogs-train-001933",
-        "triplet": "It's 180 .<eos>Oh , that's too expensive . Aren ' t there any cheaper ones ?<eos>These are our cheapest coats , madam .",
+        "triplet": "It's 180 .<eos>Oh , that's too expensive . Aren't there any cheaper ones ?<eos>These are our cheapest coats , madam .",
         "categories": [
             "possessive_prons",
             "demonstrative_dets",

@@ -11,7 +11,7 @@
     },
     {
         "id": "daily_dialogs-train-009004",
-        "triplet": "Are you in Mrs . Green ' s class ?<eos>Yes . Are you ?<eos>Yes . We must have the same exam tomorrow !",
+        "triplet": "Are you in Mrs . Green's class ?<eos>Yes . Are you ?<eos>Yes . We must have the same exam tomorrow !",
         "categories": [
             "plural_personal_prons",
             "act_confirm_elaborate",
@@ -283,7 +283,7 @@
     },
     {
         "id": "daily_dialogs-valid-010026",
-        "triplet": "Next Friday .<eos>I ' m sorry , sir . We can ' t accept reservations for next Friday due to over booking . May I suggest another hotel , sir ?<eos>Oh , thank you very much .",
+        "triplet": "Next Friday .<eos>I'm sorry , sir . We can't accept reservations for next Friday due to over booking . May I suggest another hotel , sir ?<eos>Oh , thank you very much .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -417,7 +417,7 @@
     },
     {
         "id": "daily_dialogs-valid-013059",
-        "triplet": "You need to keep it at 100 .<eos>That ' s it ?<eos>That ' s the least amount you can have .",
+        "triplet": "You need to keep it at 100 .<eos>That's it ?<eos>That's the least amount you can have .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -445,7 +445,7 @@
     },
     {
         "id": "daily_dialogs-valid-008608",
-        "triplet": "Hey , watch where you ' re going !<eos>Oh , no ! I ' m so sorry ! Are you all right ?<eos>Oh ... I don ' t know .",
+        "triplet": "Hey , watch where you're going !<eos>Oh , no ! I'm so sorry ! Are you all right ?<eos>Oh ... I don't know .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -924,7 +924,7 @@
     },
     {
         "id": "daily_dialogs-train-008168",
-        "triplet": "I only had time to visit Edinburgh .<eos>How did you like it ?<eos>It ' s fantastic .",
+        "triplet": "I only had time to visit Edinburgh .<eos>How did you like it ?<eos>It's fantastic .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -943,7 +943,7 @@
     },
     {
         "id": "daily_dialogs-train-008486",
-        "triplet": "Honey , do you have a second ?<eos>Sure ! Are you okay ? You seem a bit worried . What ' s on your mind ?<eos>We need to talk .",
+        "triplet": "Honey , do you have a second ?<eos>Sure ! Are you okay ? You seem a bit worried . What's on your mind ?<eos>We need to talk .",
         "categories": [
             "plural_personal_prons",
             "yes_no_question",
@@ -963,7 +963,7 @@
     },
     {
         "id": "daily_dialogs-train-006533",
-        "triplet": "Susan , good evening . Why are you so dressed up ?<eos>I am on my way out to a New Year ' s banquet . How do I look ? Is my make up OK ?<eos>You look great . Your make up is perfect .",
+        "triplet": "Susan , good evening . Why are you so dressed up ?<eos>I am on my way out to a New Year's banquet . How do I look ? Is my make up OK ?<eos>You look great . Your make up is perfect .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -972,7 +972,7 @@
     },
     {
         "id": "daily_dialogs-valid-013015",
-        "triplet": "Yeah , me too . Did you hear about Frank ?<eos>No , what happened ?<eos>He lost his kids ' college money day trading .",
+        "triplet": "Yeah , me too . Did you hear about Frank ?<eos>No , what happened ?<eos>He lost his kids'college money day trading .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",
@@ -1097,7 +1097,7 @@
     },
     {
         "id": "daily_dialogs-valid-011715",
-        "triplet": "Yes , of course .<eos>Where would you like to be in 5 years ?<eos>In five years , I ' d like to be a senior manager of this corporation .",
+        "triplet": "Yes , of course .<eos>Where would you like to be in 5 years ?<eos>In five years , I'd like to be a senior manager of this corporation .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -1384,7 +1384,7 @@
     },
     {
         "id": "daily_dialogs-valid-007516",
-        "triplet": "My pleasure .<eos>This is it ?<eos>It ' s up on the second floor . You have to use the stairs . The elevator isn ' t working .",
+        "triplet": "My pleasure .<eos>This is it ?<eos>It's up on the second floor . You have to use the stairs . The elevator isn't working .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",

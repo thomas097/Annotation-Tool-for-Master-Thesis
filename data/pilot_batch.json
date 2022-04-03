@@ -149,7 +149,7 @@
     },
     {
         "id": "daily_dialogs-valid-007127",
-        "triplet": "David , I ' m going to China .<eos>Really ? How do you get the chance ?<eos>You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don ' t have to pay for my trip .",
+        "triplet": "David , I'm going to China .<eos>Really ? How do you get the chance ?<eos>You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don't have to pay for my trip .",
         "categories": [
             "possessive_prons",
             "singular_personal_prons",

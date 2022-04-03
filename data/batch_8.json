@@ -88,7 +88,7 @@
     },
     {
         "id": "daily_dialogs-valid-002927",
-        "triplet": "Sorry , I ' m looking for my wallet .<eos>You lost your wallet ? Anything important in it ?<eos>Yes . A lot of cash . Almost forty thousand pounds .",
+        "triplet": "Sorry , I'm looking for my wallet .<eos>You lost your wallet ? Anything important in it ?<eos>Yes . A lot of cash . Almost forty thousand pounds .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
@@ -128,7 +128,7 @@
     },
     {
         "id": "daily_dialogs-train-012123",
-        "triplet": "Come on , what have you got to lose ?<eos>What about my resume ?<eos>Here , I ' ll help you type one up .",
+        "triplet": "Come on , what have you got to lose ?<eos>What about my resume ?<eos>Here , I'll help you type one up .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -207,7 +207,7 @@
     },
     {
         "id": "daily_dialogs-valid-007884",
-        "triplet": "It is ? Oh , that ' s nice .<eos>Huh ? Didn ' t you know ? Aren ' t you excited ?<eos>Actually , I ' d forgotten about it .",
+        "triplet": "It is ? Oh , that's nice .<eos>Huh ? Didn't you know ? Aren't you excited ?<eos>Actually , I'd forgotten about it .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -411,7 +411,7 @@
     },
     {
         "id": "daily_dialogs-train-013052",
-        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I ' m going to cancel the fees you owe .",
+        "triplet": "I understand your problem .<eos>Will you be able to solve my problem ?<eos>I'm going to cancel the fees you owe .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1024,7 +1024,7 @@
     },
     {
         "id": "daily_dialogs-train-002884",
-        "triplet": "Here you are .<eos>What ' s good today ?<eos>I recommend crisp beef and fried duck .",
+        "triplet": "Here you are .<eos>What's good today ?<eos>I recommend crisp beef and fried duck .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1373,7 +1373,7 @@
     },
     {
         "id": "daily_dialogs-valid-013026",
-        "triplet": "I sure do .<eos>Would you like to transfer money from that account into your new one ?<eos>That ' s fine .",
+        "triplet": "I sure do .<eos>Would you like to transfer money from that account into your new one ?<eos>That's fine .",
         "categories": [
             "demonstrative_dets",
             "yes_no_question",
@@ -1401,7 +1401,7 @@
     },
     {
         "id": "daily_dialogs-train-008959",
-        "triplet": "It was good to see you here , John .<eos>Happy to see you too Mike . How ' s your family ?<eos>Pretty good . Thank you .",
+        "triplet": "It was good to see you here , John .<eos>Happy to see you too Mike . How's your family ?<eos>Pretty good . Thank you .",
         "categories": [
             "ellipsis_subj",
             "singular_personal_prons",
@@ -1562,7 +1562,7 @@
     },
     {
         "id": "daily_dialogs-train-012537",
-        "triplet": "I would like you to be my lawyer .<eos>What can I do for you ?<eos>I ' m going on trial .",
+        "triplet": "I would like you to be my lawyer .<eos>What can I do for you ?<eos>I'm going on trial .",
         "categories": [
             "singular_personal_prons",
             "length_7"
@@ -1587,7 +1587,7 @@
     },
     {
         "id": "daily_dialogs-valid-003683",
-        "triplet": "I really wish I hadn ' t done it .<eos>What on earth are you talking about ?<eos>I got caught cheating . I feel so ashamed . The teacher saw me and told me I failed .",
+        "triplet": "I really wish I hadn't done it .<eos>What on earth are you talking about ?<eos>I got caught cheating . I feel so ashamed . The teacher saw me and told me I failed .",
         "categories": [
             "singular_personal_prons",
             "wh_question",

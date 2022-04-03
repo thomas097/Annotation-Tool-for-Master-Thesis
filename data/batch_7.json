@@ -87,7 +87,7 @@
     },
     {
         "id": "daily_dialogs-train-008810",
-        "triplet": "I think I can , Kate . It must be Karen Marsh , the actress .<eos>I thought so . Who ' s that beside her ?<eos>That must be Conrad Reeves .",
+        "triplet": "I think I can , Kate . It must be Karen Marsh , the actress .<eos>I thought so . Who's that beside her ?<eos>That must be Conrad Reeves .",
         "categories": [
             "demonstrative_dets",
             "wh_question",
@@ -296,7 +296,7 @@
     },
     {
         "id": "daily_dialogs-train-012082",
-        "triplet": "Darn ! Oh , well . I guess it ' s just not my day . Thanks anyway .<eos>Do you have a club card or will it be cash ?<eos>Yeah I got a club card . Here you go .",
+        "triplet": "Darn ! Oh , well . I guess it's just not my day . Thanks anyway .<eos>Do you have a club card or will it be cash ?<eos>Yeah I got a club card . Here you go .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -456,7 +456,7 @@
     },
     {
         "id": "daily_dialogs-valid-008153",
-        "triplet": "15 .<eos>What about your brother ?<eos>He ' s not quite 25 .",
+        "triplet": "15 .<eos>What about your brother ?<eos>He's not quite 25 .",
         "categories": [
             "singular_personal_prons",
             "open_question",
@@ -465,7 +465,7 @@
     },
     {
         "id": "daily_dialogs-valid-003247",
-        "triplet": "What aren ' t you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
+        "triplet": "What aren't you too sure about ?<eos>Can you tell me when my lease is up ?<eos>Your lease is for three years .",
         "categories": [
             "possessive_prons",
             "yes_no_question",
@@ -660,7 +660,7 @@
     },
     {
         "id": "daily_dialogs-train-008327",
-        "triplet": "What ? You don ' t love me ? Me , either .<eos>You don ' t love me ?<eos>No .",
+        "triplet": "What ? You don't love me ? Me , either .<eos>You don't love me ?<eos>No .",
         "categories": [
             "ellipsis_pred",
             "act_deny_elaborate",
@@ -747,7 +747,7 @@
     },
     {
         "id": "daily_dialogs-train-003986",
-        "triplet": "I am looking for a newspaper article .<eos>Have you looked in the periodicals ?<eos>I didn ' t even think about that .",
+        "triplet": "I am looking for a newspaper article .<eos>Have you looked in the periodicals ?<eos>I didn't even think about that .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -846,7 +846,7 @@
     },
     {
         "id": "daily_dialogs-train-004243",
-        "triplet": "I ' m itching for moving !<eos>What ' s the matter ? What annoy you ?<eos>It ' s so wet and dark , I ' m just fed up .",
+        "triplet": "I'm itching for moving !<eos>What's the matter ? What annoy you ?<eos>It's so wet and dark , I'm just fed up .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1229,7 +1229,7 @@
     },
     {
         "id": "daily_dialogs-valid-006461",
-        "triplet": "It ' s harmful not only for yourself but for others .<eos>What in your opinion can be done to stop smoking ?<eos>Stop producing cigarettes .",
+        "triplet": "It's harmful not only for yourself but for others .<eos>What in your opinion can be done to stop smoking ?<eos>Stop producing cigarettes .",
         "categories": [
             "ellipsis_subj",
             "wh_question",
@@ -1249,7 +1249,7 @@
     },
     {
         "id": "daily_dialogs-valid-009707",
-        "triplet": "Let me check . Oh , oh ! It ' s at 3 25 .<eos>Wow , that's cutting it close ! That means we only have 25 minutes to make the connection ! What gate is it at ?<eos>It's at ... gate 14 .",
+        "triplet": "Let me check . Oh , oh ! It's at 3 25 .<eos>Wow , that's cutting it close ! That means we only have 25 minutes to make the connection ! What gate is it at ?<eos>It's at ... gate 14 .",
         "categories": [
             "singular_personal_prons",
             "wh_question",
@@ -1554,7 +1554,7 @@
     },
     {
         "id": "daily_dialogs-train-002428",
-        "triplet": "You ain't nothing ' but a hound dog ...<eos>Trev , are you OK ?<eos>Of course I'm OK ! I just bought a bunch of classic Elvis records !",
+        "triplet": "You ain't nothing'but a hound dog ...<eos>Trev , are you OK ?<eos>Of course I'm OK ! I just bought a bunch of classic Elvis records !",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1666,7 +1666,7 @@
     },
     {
         "id": "daily_dialogs-valid-007451",
-        "triplet": "Do you mean you want to sell up your company of your own ?<eos>There ' s a possibility . What do you say ?<eos>That ' s not a bad idea . Bet after all you should get some sound financial guarantee .",
+        "triplet": "Do you mean you want to sell up your company of your own ?<eos>There's a possibility . What do you say ?<eos>That's not a bad idea . Bet after all you should get some sound financial guarantee .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -1676,7 +1676,7 @@
     },
     {
         "id": "daily_dialogs-train-007839",
-        "triplet": "Doctor Butcher .<eos>What a horrible name ! Is it full of suspense ?<eos>No , not at all . it ' s about how to keep fit .",
+        "triplet": "Doctor Butcher .<eos>What a horrible name ! Is it full of suspense ?<eos>No , not at all . it's about how to keep fit .",
         "categories": [
             "singular_personal_prons",
             "act_deny_elaborate",
@@ -1814,7 +1814,7 @@
     },
     {
         "id": "daily_dialogs-train-009457",
-        "triplet": "In Chicago .<eos>I see . Do you remember how much you paid for your ticket ?<eos>I'm afraid I don ' t .",
+        "triplet": "In Chicago .<eos>I see . Do you remember how much you paid for your ticket ?<eos>I'm afraid I don't .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -1833,7 +1833,7 @@
     },
     {
         "id": "daily_dialogs-train-006694",
-        "triplet": "Oh , that sounds great !<eos>I ' ll pick you up at ... say , 7 , 30 ?<eos>Yes , that would be perfect .",
+        "triplet": "Oh , that sounds great !<eos>I'll pick you up at ... say , 7 , 30 ?<eos>Yes , that would be perfect .",
         "categories": [
             "demonstrative_dets",
             "act_confirm_elaborate",

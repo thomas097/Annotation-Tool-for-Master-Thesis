@@ -148,7 +148,7 @@
     },
     {
         "id": "daily_dialogs-train-004878",
-        "triplet": "No , I ' m on a vacation to see the famous Three Gorges .<eos>I ' m going there for a tour , too . Is this your first trip to China ?<eos>Yes , it is .",
+        "triplet": "No , I'm on a vacation to see the famous Three Gorges .<eos>I'm going there for a tour , too . Is this your first trip to China ?<eos>Yes , it is .",
         "categories": [
             "singular_personal_prons",
             "act_confirm_elaborate",
@@ -225,7 +225,7 @@
     },
     {
         "id": "daily_dialogs-train-001738",
-        "triplet": "C I ' d like to have this roll of film developed .<eos>S What size prints would you like ?<eos>C Four by six will do .",
+        "triplet": "C I'd like to have this roll of film developed .<eos>S What size prints would you like ?<eos>C Four by six will do .",
         "categories": [
             "wh_question",
             "length_7"
@@ -351,7 +351,7 @@
     },
     {
         "id": "daily_dialogs-train-010556",
-        "triplet": "I ' Ve been under stress , but no more than usual .<eos>Have you been getting enough sleep lately ?<eos>No , I only sleep a few hours a night .",
+        "triplet": "I'Ve been under stress , but no more than usual .<eos>Have you been getting enough sleep lately ?<eos>No , I only sleep a few hours a night .",
         "categories": [
             "singular_personal_prons",
             "act_deny_elaborate",
@@ -409,7 +409,7 @@
     },
     {
         "id": "daily_dialogs-valid-013059",
-        "triplet": "You need to keep it at 100 .<eos>That ' s it ?<eos>That ' s the least amount you can have .",
+        "triplet": "You need to keep it at 100 .<eos>That's it ?<eos>That's the least amount you can have .",
         "categories": [
             "demonstrative_dets",
             "singular_personal_prons",
@@ -437,7 +437,7 @@
     },
     {
         "id": "daily_dialogs-valid-008608",
-        "triplet": "Hey , watch where you ' re going !<eos>Oh , no ! I ' m so sorry ! Are you all right ?<eos>Oh ... I don ' t know .",
+        "triplet": "Hey , watch where you're going !<eos>Oh , no ! I'm so sorry ! Are you all right ?<eos>Oh ... I don't know .",
         "categories": [
             "singular_personal_prons",
             "yes_no_question",
@@ -958,7 +958,7 @@
     },
     {
         "id": "daily_dialogs-valid-010141",
-        "triplet": "It ' s Marcia Gleason .<eos>Ah , yes , here you are Ms . Gleason . You reserved a single , right ?<eos>Yes , a single , thanks .",
+        "triplet": "It's Marcia Gleason .<eos>Ah , yes , here you are Ms . Gleason . You reserved a single , right ?<eos>Yes , a single , thanks .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
@@ -1189,7 +1189,7 @@
     },
     {
         "id": "daily_dialogs-valid-007831",
-        "triplet": "About three times a week if I can .<eos>Not bad ! Do you do any other sports ?<eos>Not really . I ' d really like to try golf , though .",
+        "triplet": "About three times a week if I can .<eos>Not bad ! Do you do any other sports ?<eos>Not really . I'd really like to try golf , though .",
         "categories": [
             "ellipsis_pred",
             "singular_personal_prons",
@@ -1782,7 +1782,7 @@
     },
     {
         "id": "daily_dialogs-valid-012070",
-        "triplet": "Actually , I ' Ve got something scheduled on Monday . Can she do Tuesday ?<eos>Sure , Tuesday ' s perfect . May I ask where you ' re calling from ?<eos>Sure , Merton Financial Advisors .",
+        "triplet": "Actually , I'Ve got something scheduled on Monday . Can she do Tuesday ?<eos>Sure , Tuesday's perfect . May I ask where you're calling from ?<eos>Sure , Merton Financial Advisors .",
         "categories": [
             "ellipsis_pred",
             "act_confirm_elaborate",
