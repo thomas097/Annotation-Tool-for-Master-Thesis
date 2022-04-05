@@ -63,7 +63,7 @@ class DataLoader:
         self._load_savepoint()
 
     def summary(self):
-        return 'Annotating {} ({}/{})'.format(self._item['id'], self._dataset.i, len(self._dataset))
+        return 'Annotating {} ({}/{})'.format(self._item['id'], self._dataset.i + 1, len(self._dataset))
 
     def already_annotated(self):
         """ Checks whether sample was annotated in previous session
